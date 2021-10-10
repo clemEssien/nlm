@@ -1,0 +1,47 @@
+c-Fos
+β-actin
+Stim1
+TNF-alphaActivation
+sensor stromal interaction molecule 1
+NOX2
+c-Src tyrosine kinase
+collagen
+PKCα isoform
+orai1
+Orai1 C-terminus
+STIM1
+PKCα
+NF-κB
+phospholipase A
+serine/threonine kinases
+AP1
+eroxidase
+Orai1
+BTP2A
+HE
+albumin
+occludin
+sphingosine kinase-1
+anti-Stim1
+STIM1TRPV4
+transcription factors NF-κB
+STIM proteinsConformational
+Stromal-Interacting Molecule 1
+TRP channels
+p120-catenin
+CD4+
+CaPKC
+tim1
+TIM
+dicer enzyme
+machineryOrai1
+Stim1 protein
+PKCα protein
+C- and N-terminal STIM1
+CRAC channelsBTP2
+sphingosine-1-phosphate receptor
+bronchoalveolar lavage fluid (BALF)
+Orai
+TRPV4 Serine 824
+nuclear factor κB
+canonical (TRPC) 1 and 4 channels

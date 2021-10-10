@@ -1,0 +1,53 @@
+VGLL4
+YAPYAP
+LATS1
+collagen type 2
+LATS
+actin
+bovine serum albumin
+SA-β-Gal
+yes-associated protein
+EGFP
+LATS1/2
+sh-Control duplexes
+USP28
+GAPDH
+HRP
+MCS
+YAP oncoprotein
+CTGF protein
+CCK-8
+TAZ
+β-catenin destruction complex
+AP
+SA-β-gal
+LATS2
+TAZYAP
+LATS1 mRNA
+Ubiquitin
+CTGF
+proteinase K
+Wnt
+YAP
+Cad-11
+horseradish peroxidase
+p53
+CTFG proteins
+shYAP
+Lats
+p-YAP
+glyceraldehyde 3-phosphate dehydrogenase
+Hippo
+CTGF gene
+GATA4
+phosphorylated YAP
+Lgr5^ sup+^
+hU6
+collagen type II
+BSA
+sh-Control
+upstream LATS1
+Tead4
+laminin receptors
+Yap
+Hippo-YAP

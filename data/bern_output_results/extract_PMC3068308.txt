@@ -1,0 +1,143 @@
+MTS1
+mcl-1
+SEL10
+TGF
+Bcl2
+endodermal sonic hedgehog
+executioner caspases
+Smad2
+FBW7
+tumor suppressorK-Ras
+mitogen-activated protein kinase
+Wnt
+Notch-1
+Wnt-target
+E-cadherin
+PSTI
+Ink4a
+transforming growth factor TGF
+MYC
+PDAC
+Hedgehog ligand
+CDC4
+BRCA2 regionFunctional
+cyclin D
+Apaf1
+BRCA2
+MAP kinasesMAP2K4
+Caspase-9
+Fanconi anemia genes
+ic cancerProtein kinase Ciota
+c-Jun
+actin filaments
+Arf
+ECM
+ADAMs
+p15
+DPC4
+WNT5A
+matrixA-disintegrin
+Mcl-1
+MMR proteins
+E-cadherin protein
+p38
+MTAP
+CDK4Pancreatic
+MTAP gene
+MAPK target genes
+bcl-2
+ADAM proteins
+mismatch repair genes
+NF-Oncogenic K-ras
+CDKN2A mutation
+FOXO
+extracellular signal-regulated kinase
+cyclin D1
+Kras
+MAP3K
+JNK
+integrin
+TGFDown
+FANCG
+E-cadherin proteins
+upstream MAP2K kinase
+cytochrome C
+Bcl-X(L)
+BRCA2 6174delT mutations
+mutant c-K-ras genesActivated
+mismatch repair family
+AKT2
+alpha-and beta-catenins
+AKT2 oncogene
+FANCC
+mitogen activated phosphorylated kinases
+notch
+N34S mutation
+transforming growth factor TGF-Ras
+metalloproteinase
+MKK4
+telomerase
+caspases 3, 6 and 8
+PI3K
+TGFMEKK-1
+BRCA2 gene
+DNA damage repair
+Transforming growth factor Tumor necrosis factor Interleukin 1Matrix metalloproteinase 7Familial
+Notch ligand
+SMAD4 protein
+Bcl-2
+AKT
+Brca2 protein
+INK4A
+ADAM 9
+TGF-SMAD4
+NF-MAPkinase
+metalloproteinaseExtracellular signal-regulated kinaseC-Jun N-terminal kinaseMitogen activated phosphorylated kinasesHedgehog
+MEK
+farnesyl transferase
+BMP
+ADAM
+bak
+MAPK
+methylthioadenosine phosphorylase
+SPINK1
+ADAM 15 mRNA
+p53 tumour suppressor gene
+catenin
+Akt
+hedgehog
+stic factor
+p16
+Bax
+proteins
+Notch
+cancer susceptibility
+integrins
+Hh
+Smad4
+bax
+MMR
+PDACs
+Bak
+bcl-x
+interleukin-1Effects
+wild-type K-ras
+PALB2
+Dpc4
+tumormTOR
+ERK
+FBXW7
+WNT2B
+a-disintegrin
+WNT
+c-jun N-terminal kinase
+Hedgehog
+Raf protein
+AGO
+phosphatidylinositol 3-kinase
+CDKN2A
+MAP2K
+cationic trypsinogen gene
+MAPK kinase
+catenins
+stress-activated protein kinase

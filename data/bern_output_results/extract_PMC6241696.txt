@@ -1,0 +1,54 @@
+SASH1
+Bax
+pituitary glycoprotein hormone
+GSK-3β
+CYP19A1
+nuclear factor kappaB
+anti-CASP3
+GSK
+FSHWe
+-pNF-κB
+NF-κB
+cyclooxygenase-2
+caspase-3Follicle-stimulating hormone
+fatty acid amide hydrolase
+FSH
+Cdk4
+Follicle-stimulating hormone
+GAB2
+CASP3
+PI3K
+factor kappaB
+JNK
+Tau
+A-kinase anchoring protein 95
+follicle-stimulating hormone
+Bcl-2
+AKT
+cyclinD1
+PKA
+pathwayNF-κB
+nuclear factor-κB
+follicle-stimulating hormone receptors
+CCNE1Quercetin
+aromatase
+protein kinase A
+CREB
+caspase-3
+luteinizing hormone
+trypsin
+Nuclear factor-kappa B
+Nuclear and Cytoplasmic Protein
+endothelial VCAM-1
+EGFR
+anti-pGSK-3β
+FSHR
+cytochrome P450 family 19 subfamily A member 1
+p65
+FSHRFSH
+CCND1
+tumor necrosis factor-α
+Akt
+glycogen synthase kinase
+anti-β-actin
+glycogen synthase kinase 3 beta

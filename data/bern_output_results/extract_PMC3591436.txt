@@ -1,0 +1,50 @@
+kappa BHIV-1 Tat protein
+IκB-α
+β-actin
+anti-rabbit IgG
+occludinOrganization
+human amyloid precursor protein
+p-p65
+blood-CSF
+elastin
+p-IκB-α
+anti-mouse IgG
+tight junction protein
+HRP
+brain claudin-5
+Claudin-5
+NF-κB
+GFAP
+TNF-alpha
+Goat anti-mouse claudin-5 polyclonal antibody
+claudin-1, -2 and -5
+Protease
+MMPs
+Matrix Metalloproteinase-9
+occludin
+albumin
+metalloproteinases 2 and 9
+MMP-9
+HIV-1 envelope glycoprotein gp120
+protein p-p65
+Horseradish peroxidase
+matrix metalloproteinase-9HIV-1
+claudin family
+gp120
+Goat anti-mouse albumin polyclonal antibody
+metalloproteinase-9
+claudin-5 protein
+claudin-5
+NF
+tight junction
+anti-goat IgG
+matrix metalloproteinase (MMP)-9
+Mouse anti-mouse β-actin monoclonal antibody
+CSF claudin-5
+matrix metalloproteinase-9
+-CSF
+Anti-mouse monoclonal
+plasminogen activators
+p-NF-κB
+matrix-metalloproteinase-9
+tight junction proteins

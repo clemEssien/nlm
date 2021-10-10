@@ -1,0 +1,43 @@
+c-kit
+gamma delta
+CD133+
+Osteoprotegerin
+Sca-1+
+CXCR4
+collagen
+RANK
+GAPDH
+receptor activator of NF-κB
+transforming growth factor beta1Endothelial
+GM-CSF
+Goat Anti-Rabbit IgG
+VEGFR2+
+VEGF gene isoforms
+PI3K
+HE
+bone morphogenetic protein
+RANKL
+G-CSF
+Src
+p53
+bone collagen
+vascular endothelial growth factor receptor 2
+lin(−)
+hematoxylin-eosin
+CXCR4 protein
+osteoclastogenesisOsteoprotegerin
+AKT
+t-AKT
+BMP-2
+Pyk2
+miR-
+plasmin
+vascular endothelial growth factor
+EPCs
+osteoprotegerin
+VEGFR2
+granulocyte-macrophage colony-stimulating factor
+nox2-based NADPH oxidase
+p-AKT
+EPC
+OPG

@@ -1,0 +1,65 @@
+INK4a
+sCLU
+Bax (A)
+sCLU shRNA
+p16
+hCLU
+Hsp72
+p21
+Secretory clusterin
+Erk-1/2
+apolipoprotein j
+psCLU
+p38
+Insulin-Like Growth Factor 1-Secretory Clusterin
+IGF-1-sCLU
+secretory clusterin
+Egr-1
+Hsp90
+α-Tubulin
+shCLU
+Jun
+-gal+
+apolipoprotein
+ATM
+lamin B1
+phospho-ser15
+Ha-ras
+MAF291
+nCLU
+clusterin
+p53
+Src
+matrix metalloproteinase
+shRNA-sCLU
+IGF-1
+Phospho-Erk-1/2
+TRF2
+IGF-1R
+MAB291
+apolipoprotein J
+insulin-like growth factor-1 receptor
+-myc oncogenes
+IGF-1 tyrosine kinase receptor
+hTERT
+O(A) sCLU
+CIP1
+BaxChallenge
+ATR
+shRNA-Scr
+A
+clusterin gene
+MAPK
+ncerClusterin
+insulin-like growth factor 1
+POT1Premature
+β-gal+
+RasCells
+heat shock protein Hsp72
+IGF-1R receptor kinase
+Ras12V
+shCLU containing fragment
+Erk1-2
+shRNA
+IGF
+SA-β-gal+

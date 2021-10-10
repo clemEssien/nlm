@@ -16,5 +16,3 @@ class str_list_ops:
         union = (len(set(list1)) + len(set(list2))) - intersection
         
         return float(intersection) / union
-
-

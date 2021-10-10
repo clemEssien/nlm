@@ -1,0 +1,103 @@
+TRAIL
+cyclin E
+Myc-associated zinc-finger protein
+MTS
+MI
+p53 downstream genes
+SIRT1
+p53 network
+Spy1
+ss5 receptor
+integrin FAK
+CDK4
+AL
+Atlas
+stem
+anti-mouse IgG
+Human immunodeficiency virus
+transcription factor 9
+horse radish peroxidase
+sox-2
+CAM
+Tie2
+Plasma fibronectin
+Stem
+CPEB1
+ErbB2
+human glioblastoma genes
+lung
+HER2
+JP
+nm
+ABC transporters
+mono
+brain
+CA
+OD
+focal adhesion kinase
+SD
+retinal
+PI3-Kinase
+Stat3
+MDR1
+BCRP
+Anti-GAPDH antibody
+PI3K
+Rb
+giant
+Ca
+Focal adhesion kinase
+CD133
+AKT
+ubiquitin
+FAK
+p21
+CDK2
+Sox2
+Akt
+di
+axis
+cyclin D1
+ABCG2 protein
+Src
+p53 target genes
+CAM-DR
+GSC
+p53 protein
+breast
+Cyclin D
+cyclin-dependent kinase
+type IV collagen
+ABCC
+infection
+Cyclin D1
+nestin
+p27
+fibronectin III-1 domain
+HES1
+EMAP-II
+human ABCB1
+Ki-67
+Notch1
+Plasmid pTA-FLuc
+p53
+al
+92-kDa type IV collagenase
+Kip1
+Ki-67 protein
+ABC transporter families
+FBS
+MiR
+glial fibrillary acidic protein
+P-glycoprotein
+CSF
+cyclin D
+PBS
+laminin
+Estrogen-related receptor
+DNA-PK
+extracellular signal-regulated kinase
+p-ERK1/2
+paxillin
+MRP
+Rb proteins

@@ -1,0 +1,62 @@
+Th3 cytokine
+START
+GENE
+TGF-β superfamily
+MI variants
+RP2 gene
+GRCh37
+HIPK2
+PRDM16
+interleukin
+human serotonin transporter gene
+SnpEff
+COL6A6 gene
+BMP type II receptor
+G-olf alpha
+COMT
+TGF beta
+GM-CSF
+CRHR1 gene
+CACNA1B, -1C, and -2D4
+5-hydroxytryptamine 1A receptor
+IL-10
+rotein
+SMAD3
+HI variants
+major beta-secretase
+MI
+GNAL
+zinc finger-domain transcription factor
+CD25(+)
+human GRCh37 reference sequence
+CACNA1A
+IL-6
+Abeta peptides
+GNAL gene
+GABA(A) receptor subunits
+yeast cell cycle gene CDC34
+CD4(+)
+5-HT(1a) receptor
+IFN
+HTR1B
+TNF-α
+neural cell adhesion molecule
+REF
+TGF-β
+NCAM1 interactionsAdditionally
+suc
+V5
+transforming growth factor-beta
+ZSCAN1 gene
+collagen type VI
+alpha 6 chain
+ubiquitin-conjugating enzymeof
+γ
+ALT
+NREP
+corticotropin-releasing hormone receptors
+COL6A6
+STOP codons
+CACNA2D4
+depressionTransforming growth factor-beta1
+dopamine D2 receptor gene

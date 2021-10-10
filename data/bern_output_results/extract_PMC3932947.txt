@@ -1,0 +1,115 @@
+AktEmx2 homeodomain transcription factor
+ENGRAILED2
+Zic1Immunolocalization
+EGF
+Engrailed-2
+ENGRAILED 2
+eukaryotic translation initiation factor 4EmTOR
+GNPs
+basic fibroblast growth factor
+homeobox 2
+Ki-67
+PACAP
+BDNF
+histone mRNAJoint
+IRS-1 Ser-1101
+Foxa2
+Wnt
+homeo box-containing gene En-2
+MAP1B promoter
+homeo box-containing genes En-1
+PKA
+S6K1
+insulin
+chicken engrailed genes
+glycogen synthase kinase 3beta
+neuropilin-1
+D-aspartate and TrkB receptors
+MeCP2 mutant
+Engrailed-2 mutant
+eukaryotic translation initiation factor 4E
+ATF5
+p27
+EN2
+IGF1
+PDK1Identification
+IGF-2
+MIB-5
+p70S6 kinase
+IGF-I
+cyclin D1
+homeobox transcription factor
+CYFIP2
+insulin-like growth factorsInteractions
+IGF binding protein-5
+homeobox gene
+upstream receptor tyrosine kinase
+Fox transcription factorsNeurotrophic
+fibroblast growth factor
+Smad5
+CDK2
+IGF1 receptor
+insulin-like growth factor-I
+Atoh1
+eIF4E
+adenylate cyclase
+homeobox genes
+HNF3beta
+mTOR
+enhancer factor-2
+tyrosine-kinase receptor
+PI3K
+homeobox transcription factor gene ENGRAILED 2
+engrailed genes
+P-S6K
+p70s6k
+AKT
+PCNA
+Pituitary adenylate cyclase
+insulin-like growth factor-1
+Engrailed
+Sonic Hedgehog
+p57Kip2
+Zic2
+insulin-like growth factor 1
+basic fibroblast growth factorA
+MAPK
+semaphorin 3A
+brainPI3K
+enylate cyclase
+Akt
+mitog
+engrailed
+Brd
+4E-BP1
+Engrailed 2 gene
+Shh
+outer EGL GNPs
+eIF4B
+proto-oncogene Int-1
+Tsc1 mutant
+Gli
+ZNF238
+ENGRAILED 2Autism Associated Gene
+FGF
+En-2
+Pax genes
+bFGF
+rat cerebral cortical precursorsDNAse I
+Epidermal growth factor
+mTOR complex 1 family
+Engrailed-2 mutantsA
+sonic hedgehog
+En2
+IGF-1
+Brain-derived neurotrophic factor
+Sonic hedgehog
+en-activated protein kinase
+insulin-like growth factor I
+insulin-like growth factors
+phosphatidylinositol 3-kinase
+late cyclase-activating polypeptide
+Purkinje cell sagittal stripe
+IGF1R
+phosphatidylinositol-3-kinase
+mTORC1

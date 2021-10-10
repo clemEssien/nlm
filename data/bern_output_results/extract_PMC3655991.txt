@@ -1,0 +1,72 @@
+proapoptotic Bcl-2 family protein
+siTSC2 (D, E)
+eIF4E
+ATF6
+sictrl
+siTSC2 (B–D)
+TUNEL
+Bax
+IRE1α RNase
+BAK
+siTSC2
+p38
+eIF2α
+p70S6K protein
+dUTP-biotin
+Rapamyci
+mTOR
+ERAD factors
+PERK
+Bak
+terminal deoxynucleotidyl transferase
+IRE1αK599A
+Mammalian target of rapamycin complex 1
+IRE1
+IRE1α interactomeMitochondrial
+ribosomal p70S6 kinase
+IRE1αFine
+IRE1αΔRNase
+JNK1
+BH3-only proteinsIRE1
+JNK
+RNase domain
+XBP1 (A)
+ER
+RNase and kinase
+Bcl-2 family proteins
+caspase-3 (I)
+procaspase-3
+Tsc2
+binding protein
+siRaptor (A)
+RNase
+phosphorylated JNK (A)
+IRE1αΔRNase (A–C)
+regulatory associated protein of
+IRE1α
+c-Jun activation domainRegulation
+endoplasmic reticular BakMAP4K3
+thyroid peroxidaseMenadione
+RNase-deleted mutant
+caspase
+caspase-3
+IRE1α kinase
+XBP1-DN
+Ha-Ras
+Raptor
+mLST8
+stressTOR
+p70S6K
+JNK-DN
+XBP1(S)
+DN
+catalase
+folliculin
+siRaptor
+raptor
+BH
+nuclear XBP1
+Akt
+XBP1
+mTORC1
+lum stressJNK1

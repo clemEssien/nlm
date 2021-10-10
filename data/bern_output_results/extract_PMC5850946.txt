@@ -1,0 +1,96 @@
+ITGB1
+AKT1
+3-kinase
+pi3-kinase
+STAT
+clathrin
+t-snare syntaxin 6Regulation
+FGF17
+PP2R3A
+Raf
+vascular endothelial growth factor receptor 2
+STK11
+CSNK1D
+ER
+pi3k
+ribosomal protein genes
+JAK-STAT
+platelet-derived growth factor Phospholipase c
+FAM3C
+akt2
+RAP1A
+ugin
+breast cancer susceptibility gene product
+dantzig
+YWHAZ
+ReactomeFI
+tuberous sclerosis tumor suppressor complex
+SGK1
+pdgfr
+FGFR
+akt1
+mapks
+tsc1
+akt
+rap1p
+fgfr
+skov3
+tsc2
+receptor tyrosine kinase
+erbb2
+fibroblast growth factor
+CCND1
+FGFR2
+PDGFRA
+egfr
+receptor 2
+receptor tyrosine kinasesAberrant
+Ras
+TNN
+FGFR4
+ITGB4
+EFGR
+PI3k
+Animaltfdb
+PI3K
+SHH
+pdgfrSgk1
+cyclin d1
+c3 isoformThe
+AKT
+SGK1 gene
+pdgf
+fibroblast growth factor receptor 2 iiib
+MEK
+RAP1
+MAPK
+IL7R
+TSC2
+COL5A3
+Akt
+casein kinase 1 isoforms
+ITGB7
+ddp
+P53
+integrins
+PTEN
+JAK
+HSP90AA
+GRB2
+copii
+KDR
+tuberinLama2
+CSF1R
+mtor
+frs2
+ERK
+PML
+nf- Akt1
+-ethylmaleimide–sensitive factor attachment protein receptors
+grb2
+Rap1
+egf
+L1000
+mitogen activated protein (MAP) kinase
+vamp-7
+fgf

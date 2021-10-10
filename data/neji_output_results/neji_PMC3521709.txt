@@ -1,0 +1,83 @@
+CA SZ ES MEH
+LET-23 protein
+Abi2
+small GTPase CED-10 Rac
+SCAR
+Rac
+Cbl
+CED-1
+SLI-1
+CED-6
+Rac1
+ubiquitin ligase
+Nck
+Cbl family proteins
+v-Abl
+CED-10
+CA SZ ES HRH MEH
+LET-60 Ras
+TULA
+CA SZ HRH MEH
+cytoskeletal regulatory protein ABI-1
+Crk
+CED-2
+ABL-1
+Ca
+roundworm
+phosphoinositide phosphatase MTM-1
+Src
+TKB domain
+Rho
+CED-2-related protein
+recruitment
+LET-23 EGFR/LET-60 Ras
+CED-10 homolog Rac
+T cell receptor
+helix
+Vav
+Cbl N-terminus
+Rac-GEF
+c-Cbl
+Dynamin
+ArgBP2
+Rho family
+WASP-family protein
+c-Abl
+CA SZ MEH
+heterodimeric guanine nucleotide exchange factor CED-5/CED-12
+defect
+Cbl phosphotyrosine recognition motif
+insulin
+Alpha and beta tubulin
+Abl Kinase
+CrkII
+SLI-1 homolog Cbl
+Rho GTPases
+APS
+neurodegenerative disease
+tyrosine kinase Syk
+tyrosine kinase
+CED-7
+SWAN-1
+TRIO-MIG-2
+E3 ubiquitin ligase
+SLAP
+ZAP-70 kinase
+gonads
+RhoG
+pharynx
+RhoGAP SRGP-1
+CED-10 Rac
+cytoskeletal regulator ABL-1
+Abl
+WAVE1
+Dock180–ELMO complex
+digital
+ubiquitin
+TIF
+fed
+Syk family kinase
+DIC
+N-terminal tyrosine kinase binding domain
+WAVE
+SLI-1 Cbl

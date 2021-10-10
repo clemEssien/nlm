@@ -1,0 +1,89 @@
+prostate
+CDCP1 gene
+MI
+mammary
+phospho-CDCP1
+mouse monoclonal anti-actin
+RAF
+Cub Domain Containing Protein 1
+EGF-EGFR
+MiR-9
+GS
+LS
+CDCP1 genetic
+platelet derived growth factor
+Mrs
+PE anti-human CD318
+Platelet-derived growth factor-BB
+CUB domain-containing protein 1
+src kinases
+PDGF-BB
+vascular
+CUB domain containing protein
+CEP3
+stem
+PDGF
+IHC CDCP1
+PDGFR beta
+mouse monoclonal anti-phospho-PDGFRβ
+Alexa Fluor® 647 anti-human CD318
+anti-CDCP1
+organ
+human epidermal growth factor receptor-2
+SRC-associated protein CUB domain-containing protein-1
+activating Src family kinases
+p80
+CUB-domain containing protein 1
+ERK
+PDGF-BB ligand
+HER-2
+pancreatic
+lung
+CDCP1
+HER2
+CA
+Ras
+focal adhesion kinase
+epidermal growth factor receptor
+RA
+PDGF receptor
+PI3K
+MDA-MB
+nM
+FAK
+ERK1/2
+peroxidase
+RAS
+miR-200
+platelet-derived growth factor
+Akt
+axis
+plasmin
+Src
+EGF
+renal
+breast
+VA
+polyclonal anti-rabbit or -mouse IgG
+platelet-derived growth factor beta receptor
+MA
+bone morphogenetic protein 4
+DI
+ovarian
+ERK1
+MDA-MB-468
+rabbit polyclonal anti-CDCP1
+p44/42 MAPK
+al
+Src family kinases
+PKC
+PRs
+CUB-domain-containing protein 1
+Fig
+platelet-derived growth factor beta-receptor
+VHL
+extracellular signal-regulated kinase
+Platelet-derived growth factor receptors
+ERs
+stroma
+CDCP1 protein

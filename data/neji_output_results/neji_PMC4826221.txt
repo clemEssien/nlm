@@ -1,0 +1,62 @@
+ALDH
+prostate
+TGF-beta
+caspase-3
+histone H2A variant H2AX
+colon
+Fas
+Lung
+STAT3
+MI
+STAT3 Inhibitor Galiellalactone
+ovarian
+interleukin-6
+cold
+SDS
+topoisomerase I poisons
+lung
+MD
+HER2
+Signal transducer and activator of transcription 3
+pituitary
+CHK1
+nm
+stathmin
+CA
+Prostate
+peroxidase
+allergic asthma
+BRCA1
+H2AX
+p53
+phospho-histone H2AX
+SD
+Apolipoprotein E
+SEM
+GL
+Stat3
+VP-16
+breast
+FBS
+histone H2AX
+ATM
+VA
+appropriate horseradish peroxidase
+fungal GL
+HIV
+ATR kinase
+CDC25C
+mL
+stem
+PBS
+Chk1
+signal transducers and activators of transcription
+CtIP
+1 μM of 2,7-dichlorofluorescein diacetate
+signal transducer and activator of transcription
+NF-kappaB
+Foxn1
+Plan
+MA
+RNase A
+ATR

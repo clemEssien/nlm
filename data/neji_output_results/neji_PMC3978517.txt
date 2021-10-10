@@ -1,0 +1,168 @@
+serine-threonine kinase
+CDC45 protein
+ATR targets
+Rad50
+Cdk1
+geminin
+Mre11-Rad50-Nbs1
+Cyclin
+ARC
+PARP-1
+RPA and DNA polymerases
+TopBP1-interacting protein
+MCM2-7-related protein
+Yeast DNA polymerase epsilon
+CCDC111
+recruitment
+BRCA1
+RPA
+SV40 T antigen
+Tipin-replication protein A
+ATM kinase
+Pol
+CDK4
+Mec1
+Cdc45
+Mcm2-7 double hexamers
+helicase
+Sld3-associated protein
+IC
+human DNA primase-polymerase
+ATRIP
+Tipin proteins
+CDK1
+PCNA
+RPA-ssDNA
+mammalian cell fusions
+Cdc6
+Rpa1
+Dub3
+Cdc7
+Cyclin A complex
+ATR
+cyclin-dependent kinases
+Human single-stranded DNA binding proteins
+Mrc1
+Treslin
+TIPIN
+Recruitment
+Mre11
+MCM9
+CDKs, specific threonine-serine protein kinases
+DNA polymerases
+helix
+MCM helicase
+Rad9 S
+FANCJ
+Geminin
+DNA polymerase kappa
+Human Claspin
+Ataxia Telangiectasia Mutated
+DNA polymerase alpha
+PI3K
+Cdk2
+Cdt1 protein
+cdc45
+Ctf4
+DNA replication Cdt1
+Rb
+Rad9
+DNA polymerase α
+G1-cyclins
+Tim
+Chk1
+ATR activation via TOPBP1
+DNA replicative helicases
+Cdt1
+Atr
+p21
+Pol epsilon
+CDC25 family
+DNA polymerase
+hRad17-replication factor C complex
+Mcm9
+MCM8-MCM9 complex
+type II topoisomerases
+human Mcm protein family
+CDK2
+Chk1-regulatory protein
+ESCs
+human CDT1
+Rad9-Hus1-Rad1
+TIM
+DBF4
+MCM2-7 complex
+CHK1
+Mre11 complex
+Cdc25 A
+ATPase
+RAD51
+TopBP1
+PCNA-interacting proteins
+MCM8
+DNA-dependent protein kinase
+phosphatidylinositol-3-OH kinase
+checkpoint kinase Rad53
+cyclin B-p34cdc2 kinase
+Cyclin-Dependent Kinase
+cyclin-dependent kinase
+cellular replication protein A
+CIP/KIP CDK
+proliferating cell nuclear antigen
+ATM
+DNA polymerase epsilon
+BACH1
+ATR-Interacting Protein
+Rad17 complexes
+Nbs1
+Tel1
+Cyclin D1
+stretches
+Rad17
+CKI
+APE2
+MCM4
+human Cdc25A
+MCM2-7-related helicase MCM8
+cdc2
+ATM protein
+DNA topoisomerases
+Rad1
+MCM2-7 helicase
+p27
+Cdc6 protein
+MCM2-8 protein family
+retinoblastoma protein
+RLF-B
+Claspin
+CDK kinase
+DNA primase
+Poly (ADP-Ribose) Polymerase-1
+Kinase-dead ATM protein
+Hus1
+GMC helicase
+primase/polymerase
+Mcm4
+p53
+Drf1
+Rad9 complexes
+Tipin
+Mcm2-7
+Mcm8
+cdt1
+Histone H2AX
+Mcm2-7 helicase
+Replication protein A
+Timeless
+ataxia telangiectasia
+Cdc25 A phosphatase
+human MCM2-7 proteins
+RPA32
+Cyclin E
+ATR kinase
+CDC25 phosphatases
+Dbf4
+DNA-PK
+Cdc25A
+re
+translesion DNA polymerases

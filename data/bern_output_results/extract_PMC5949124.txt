@@ -1,0 +1,181 @@
+insulin-like growth factor-I receptor
+TWIST1
+proto-oncogene β-catenin
+APC complex
+factor beta
+p27kip1
+NF-kB
+TGF
+transmembrane receptor ptch
+Wnt target genes
+byNF-κB
+epidermal growth factor receptor
+frizzled receptor
+Cyclin D1
+YAP1
+GSK3
+β-catenin
+Rhotekin
+CDK4
+K-Ras
+TEAD4
+p27Kip1
+GLI2
+nuclear PTEN
+-catenin
+Wnt
+SNAIL gene
+WNT10A
+MMP-9
+p53
+Snail-1
+E-cadherin
+CD24+
+MET
+lipoxygenase
+vascular endothelial growth factor
+CIP1
+IL-8 gene
+insulin
+NFKB2
+Notch1
+EMT factorsMMPs
+TGF-β1 gene
+CDH1
+LEF
+factor type 1 receptor
+N-cadherin
+p27
+retinoblastoma
+p21WAF1
+inhibin
+Hh pathwayWnt proteins
+cyclin D2
+SFRP genes
+SIP1
+cyclooxygenase
+HER2
+TAZ
+Erb-B family receptors
+ancersNotch3
+FGFR
+LOX
+matrix metalloproteinase 9
+ZEB1
+cyclin-dependent kinase
+cyclin D1
+MAML1
+TCF7L2
+Wnt-5a
+transform growth factor beta 1
+lymphoid enhancer factor
+SALL4
+kB family
+FzE3
+TEAD
+Hh-related target genes
+receptor tyrosine kinase
+RhoA
+HMG
+ptch receptor
+EGFR
+Y-secretase
+MUC2
+FGFR2
+SOX2
+Wnt pathway genes
+Wnt pathwayTransglutaminase
+Vimentin
+c-Rel
+Ptch
+COX-2
+GLI3
+LATS1/2
+TGM
+Ras
+hippo
+ERK1/2
+FGFR2 gene
+SMO
+cyclooxygenase-2
+NFkB1
+N-Ras
+RelB
+MST1/1
+Twist
+manganese superoxide dismutase
+Nodal
+dishevelled
+PI3K
+SHH
+vascular endothelial growth factor receptor 1, 2, and 3
+Snail
+YAP
+Notch receptor
+Slug
+synthase 1 and 2
+Jagged2
+KRAS gene
+AKT
+T-cell factor
+MUC5AC
+ZEB-1
+GLI1
+Hippo
+CD44
+TGF-β
+MCC
+CDK6
+transforming growth factor βin
+Jagged1
+frizzled
+CDK
+bone morphogenetic proteins
+activin
+AXIN
+Wnt ligand
+Notch2
+Notch1 receptor
+NFKB1
+twist
+MMP
+Yap1Recurrent
+TGF-βsignaling
+NF-kappaB
+ern
+hypoxia-inducible factor-1
+CK1
+Notch
+COX-1
+smoothened
+Hh
+MST1/2
+RNA-binding factor HuR
+Smad4
+lipoprotein receptor-related protein 5
+TGF-β1
+TCF
+APC
+Fas
+COX enzymes
+oncogenic GTPase
+RHOA
+Twist1
+matrix metalloproteinase
+JapaneseKRAS mutations
+Wnt-2
+RelA
+secreted frizzled related protein
+Kip1
+Hedgehog
+GLI
+hsFRP
+matrix metalloproteinases MMP-2
+EMT activating transcription factors
+matrix metalloproteinase-9
+transforming growth factor-βtype I receptor gene
+tumor necrosis factor αandEpithelial
+sonic hedgehog protein
+P16
+cancerEphA2
+E-cadherinBevacizumab

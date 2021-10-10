@@ -1,0 +1,32 @@
+RT
+p70 ribosomal S6 kinase 1
+anti-human HIF-1α
+Akt
+Drosophila S6 kinase
+lung
+ICH-GCP
+anti-human vimentin
+CA
+KFs
+pyruvate kinase isoenzyme type M2
+CCK-8
+SD
+renal
+Pseudofolliculitis barbae
+kit-8
+breast
+IL-6
+PI3K
+TRIM44
+E-cadherin
+anti-human PKM2
+Pyruvate kinase M2
+PBS
+condition
+Bmi1
+pyruvate kinase M2
+anti-human E-cadherin
+MA
+renal fibrosis
+Stem
+mTOR

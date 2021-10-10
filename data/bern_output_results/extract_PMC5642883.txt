@@ -1,0 +1,75 @@
+neutrophil gelatinase -associated lipocalin
+ERK1
+p-38
+pc-KLF15
+PKCFisetin
+neutrophil gelatinase-associated lipocalin
+pc-RXRTo
+extracellular regulated protein kinases 1 and 2
+phospho-ERK1/2
+PP1R18
+pc-KLF10
+PKC Isozymes
+pc-PPP1R18
+C/EBP-deltaE74-like factor
+ERK1/2
+EllisLCN2
+p-JNK
+pRLTK
+LCN2
+PKCFollowing
+MAPK (
+MEK1/2
+HER2
+- c-jun N-terminal kinase
+protein lipocalin 2
+lipocalin-2
+NGAL GeneThere
+PKCThe
+LCN2 gene
+p38 MAPK
+RXRLuciferase
+KLF15
+lipocalin
+anti-ERK1/2
+luciferase
+LCN2 Gene
+RXRIn
+IkappaB -zeta
+RXRNext
+mouse anti-p-ERK1
+JNK
+MMP-9
+C/EBP-beta
+PKC
+MISP
+RXRTPA
+NGAL
+tumor necrosis factor-alpha
+MMP9
+ERK
+AKT
+c-Myc
+ESCC
+KLF10
+retinoid X receptor
+ROS
+neutrophil gelatinase associated lipocalin
+lipocalin 2Tumour stroma-derived lipocalin-2
+NF
+associated lipocalin
+MEK
+RXRLipocalin 2
+pErk1/2A
+p-ERK1/2
+mitogen-activated protein kinase) signal pathway proteins
+MAPK
+neutrophil gelatinase-2
+lipocalin family
+lipocalin-2 protein
+matrix metalloproteinase-9
+PPP1R18
+interleukin-17
+Response Element Binding Proteins
+Neutrophil gelatinase-associated lipocalin
+Akt

@@ -1,0 +1,62 @@
+γH2AX
+STATs
+NF-kappaB
+actin
+ATR kinase
+TGF-beta
+DDR
+CDKs
+DNA repair proteinsS
+Alexa Fluor 488 goat-anti-mouse IgG
+VP-1
+interleukin-6
+signal transducers and activators of transcription
+GCDC25C
+Foxn1STAT3
+actin filaments
+HER2
+NF-κB
+Stat3Galiellalactone
+DNA damage sensor kinases
+GNext
+stathmin
+BRCA1
+histone H2A variant
+CDC25C protein
+ATM
+ALDH
+histone H2AX
+phospho-histone H2AX (Ser139)
+CHK2
+Fas
+peroxidase
+horseradish peroxidase
+p53
+Chk1
+RNase A
+CHK1
+topoisomerase I
+CtIP
+Chk2
+Stat3
+cytochalasin D
+IHC
+CD4+
+GL
+pSTAT-5
+tubulin
+Foxn1nu
+CDC25C
+caspase-3
+human recombinant epidermal growth factor
+pATM
+Actin
+ATR
+stathminActivated
+tubulins
+cytochalasin 
+activator of transcription (STAT) 3
+pSTAT
+H2AX
+STAT3
+anti-α-Tubulin
