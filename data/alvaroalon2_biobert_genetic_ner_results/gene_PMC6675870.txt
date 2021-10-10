@@ -1,0 +1,27 @@
+MAPK
+Mcl - 1
+Bcl - 2
+NF - κB
+Bcl - 2
+Mcl - 1
+Ras
+MAPK
+Epidermal growth factor
+Mcl - 1
+MAPK
+Elk - 1
+MEK
+ERK
+Bcl - 2
+Bcl - X
+L
+Mcl - 1
+Mcl - 1
+Bak
+Bax
+bcl2 family
+glycogen synthase Kinase - 3β
+Mcl - 1
+Mcl - 1
+MCL1
+ERK

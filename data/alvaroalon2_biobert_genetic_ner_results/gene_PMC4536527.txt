@@ -1,0 +1,27 @@
+HIF1α
+TLR4
+insulin
+CGI - 58
+insulin
+CGI - 58
+IL - 1beta
+SOCS3
+FOXO1
+IKKbeta
+IL - 13
+VEGF
+Adipokines
+insulin
+Macrophage alpha1 AMP - activated protein kinase
+alpha1AMPK
+SIRT1
+HIF - 1alpha
+insulin
+Parathyroid hormone - related protein
+HIF1alpha
+HIF2alpha
+Hypoxia - inducible factor 1alpha
+insulin
+MHC II
+hypoxia - inducible factor - 1alpha
+glucagon - like peptide -

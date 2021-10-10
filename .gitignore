@@ -1,0 +1,11 @@
+
+node_modules 
+*.env 
+.env* 
+*.local
+node_modules 
+*.env 
+.env* 
+*.local
+.nlm
+/mylib/__pycache__

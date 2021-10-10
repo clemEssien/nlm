@@ -1,0 +1,27 @@
+Stromal - Interacting Molecule 1
+Stim1
+Orai1
+group V phospholipase A ( 2 )
+TRP
+NOX2
+STIM1
+NF - κB
+AP1
+c - Fos
+STIM1
+STIM1
+Orai
+Orai1
+STIM
+STIM1
+Orai1
+Protein kinase C
+Protein kinase C
+Protein kinase C - alpha
+TNF - alpha
+c - Src tyrosine kinase
+occludin
+p120 - catenin
+dicer enzyme
+sphingosine kinase - 1
+sphingosine -
