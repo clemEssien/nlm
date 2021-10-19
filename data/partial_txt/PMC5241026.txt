@@ -1,0 +1,3 @@
+RhoA inhibits neural differentiation in murine stem cells through multiple mechanisms
+Present address: Department of Psychiatry, Brookdale University Hospital and Medical Center, One Brookdale Plaza, Brooklyn, NY 11212, USA.
+Spontaneous neural differentiation of embryonic stem cells is induced by Noggin-mediated inhibition of bone morphogenetic protein 4 (BMP4) signaling. RhoA is a guanosine triphosphatase (GTPase) that regulates cytoskeletal dynamics and gene expression, both of which control stem cell fate. We found that disruption of 

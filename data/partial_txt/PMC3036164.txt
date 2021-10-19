@@ -1,0 +1,2 @@
+Alcama mediates Edn1 signaling during zebrafish cartilage morphogenesis
+The zebrafish pharyngeal cartilage is derived from the pharyngeal apparatus, a vertebrate-specific structure derived from all three germ layers. Developmental aberrations of the pharyngeal apparatus lead to birth defects such as Treacher Collins and DiGeorge syndromes. While interactions between endoderm and neural crest (NC) are known to be important for cartilage formation, the full complement of molecular players involved and their roles remain to be elucidated. 

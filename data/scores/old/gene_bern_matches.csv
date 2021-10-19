@@ -1,0 +1,36 @@
+S/N,PMCID,GENES,COUNT,SCORE
+1,PMC6681686,"epc,pi3k,akt,opg,cxcr4",5,0.1042
+2,PMC3655991,"atf6,jnk,ire1,perk,xbp1(s),rnase domain,mtorc1,raptor,mlst8",9,0.1216
+3,PMC5541090,"hipk2,prdm16,smad3,nrep",4,0.058
+4,PMC5238375,"ace,mas,ang,ace2",4,0.0506
+5,PMC6241696,"casp3,fshr",2,0.0357
+6,PMC3932947,"en2,igf1r,pi3k,akt,mtorc1,igf1",6,0.0522
+7,PMC5482458,erk1,1,0.0222
+8,PMC5967041,"erk,cdcp1",2,0.0215
+9,PMC6675870,"mcl-1,bcl-2,bax,erk1,bak,chpl",6,0.0667
+10,PMC6322368,"stim1,orai1",2,0.0392
+11,PMC3978517,"rpa,cdks,topbp1,atrip,fpc,atr",6,0.0297
+12,PMC5642883,"lcn2,erk1/2,mek1/2",3,0.0385
+13,PMC5908975,"fibronectin,akt,p53,fak,integrins,sox-2,paxillin",7,0.0686
+14,PMC5788631,"yap,ctgf,ctgf protein",3,0.0526
+15,PMC3502787,"p85,erbb3,pi3k,erbb1,met",5,0.0357
+16,PMC3068308,"bak,bcl-x,akt,pi3k,executioner caspases,bcl2",6,0.0438
+17,PMC2172299,"crk,n-cadherin,paxillin,integrin,fak,p130cas,rac1",7,0.1373
+18,PMC4826221,"chk1,atm,cdc25c,gl",4,0.0606
+19,PMC3521709,"ced-1,dyn-1,dock180,abl-1,abl,crkii,ced-6,ced-10,ced-12,ced-5,ced-7,rac,ced-2",13,0.1238
+20,PMC3591436,"mmp-9,tight junction",2,0.0339
+21,PMC6820189,"gli,smo",2,0.1
+22,PMC5037850,"jnk,c-jun,ap-1",3,0.0273
+23,PMC4057701,"myd88,trif,il-12",3,0.0395
+24,PMC4061041,"igf-1r,igf-1,egr-1,atm,sclu",5,0.0725
+25,PMC5850946,"fgfr2,ccnd1,ywhaz,rap1a,sgk1,pten,tsc2,kdr,akt1,grb2,fgfr4",11,0.1146
+26,PMC5949124,"ptch,smo",2,0.0112
+27,PMC3920964,"apoe3,apoe2,lrp1,apoe4,cypa,mmp-9",6,0.0476
+28,PMC6643126,pkm2,1,0.025
+29,PMC2659383,"ptch,myc,shh,smo",4,0.0488
+30,PMC4536527,"tlr4,vegf,il-6,hfd",4,0.0513
+31,PMC3789177,"kri-1,ced-3,ced-9,dlc-1",4,0.069
+32,PMC6307990,"ido1,il6,pd-l1,p-stat3",4,0.0714
+33,PMC3946494,"muc4,akt,her2",3,0.1579
+34,PMC6451008,"mtor,nos1,pten,akt",4,0.2857
+,,,153,2.3182

@@ -1,0 +1,7 @@
+PROTEASE MEDIATED HUMAN SMOOTH MUSCLE CELL PROLIFERATION BY UROKINASE REQUIRES EPIDERMAL GROWTH FACTOR RECEPTOR TRANSACTIVATION BY TRIPLE MEMBRANE SIGNALING
+Yuyang Fu: None
+Mark G. Davies: None
+Urokinase [uPA] modulates cellular and extracellular matrix responses within the microenvironment of the vessel wall and has been shown to activate the epidermal growth factor receptor [EGFR]. This study examines the role of the protease domain of uPA during EGFR activation in human vascular smooth muscle cells [VSMC].
+Human coronary VSMC were cultured 
+CTF produced a dose-dependent increase in DNA synthesis and cell proliferation in human VSMC, which was blocked in a dose-dependent manner by both plasmin inhibitors and the EGFR inhibitor, AG1478. CTF induced time-dependent EGFR phosphorylation, which was blocked by inhibitors of plasmin and MMP activity. The presence of uPAR was not required. Inhibition of ADAM-10 and -12, and of HB-EGF blocked EGFR activation in response to CTF. CTF-mediated activation of EGFR was mediated through Gβγ, src and NAD[P]H oxidase.
+In human coronary VSMC, uPA induces uPAR-independent, domain-dependent smooth muscle cell proliferation through transactivation of EGFR by a plasmin-mediated, ADAM-induced, HB-EGF-dependent process, which is mediated by the intracellular pathways involving Gαi, Gβγ, src and NAD[P]H oxidase.
