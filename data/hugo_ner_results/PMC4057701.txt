@@ -1,0 +1,14 @@
+light
+cell
+damage
+large
+sac
+killer
+danger
+sharp
+minor
+pit
+via
+type
+mice
+red

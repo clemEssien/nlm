@@ -11,3 +11,4 @@ node_modules
 /mylib/__pycache__
 /trips_output.xml
 /reach_output.json
+/delete.py

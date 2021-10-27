@@ -98,6 +98,17 @@ class evaluate:
         return formatted_dict
 
 
+    def convert_csv_files_to_list(sef,csv_file):
+        gene_list = []
+        with open(csv_file, mode='r', encoding="UTF8", newline='') as f:
+            csv_reader = csv.DictReader(f)
+            for row in csv_reader:
+                row_values = list(row.values())
+                gene_string = str_lib.str_list_ops.format_gene_array(''.join( str(e) for e in row_values))
+                gene_string = [gene.lower() for gene in gene_string]
+                gene_list.extend(gene_string)
+        return gene_list 
+
 
     # writing out the matching genes with scores to csv
     def write_output_to_csv(self,file, genes_per_pmcid, genes_per_pred):    
