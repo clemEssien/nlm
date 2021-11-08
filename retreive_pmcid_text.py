@@ -23,23 +23,23 @@ def  gene_full_text(pmid):
 #     gene_full_text(pmid)
 
 
-print_abstract('23085539')
+# print_abstract('23085539')
 
 
 
-# import indra as indra
-# from indra.sources import trips
-# from indra import assemblers
-# from indra.assemblers.pysb import PysbAssembler 
+import indra as indra
+from indra.sources import trips
+from indra import assemblers
+from indra.assemblers.pysb import PysbAssembler 
 
-# sentence = 'MAP2K1 phosphorylates MAPK3 at Thr-202 and Tyr-204'
-# trips_processor = trips.process_text(sentence)
+sentence = 'Roles played by a subset of integrin signaling molecules in cadherin-based cell-cell adhesion. Integrins can intercommunicate with cadherins. Here, we examined their possible relationship by use of small interfering RNA-mediated protein knockdown in HeLa cells. We found that a subset of integrin signaling molecules, namely Fak and paxillin, but not p130 Crk-associated substrate or proline-rich tyrosine kinase 2, participate in processes regulating N-cadherin-based cell-cell adhesion. Paxillin was found to be required primarily for the recruitment of Fak to robust focal adhesions. Our results suggest that at least some signals involving Fak are linked to a mechanism down-regulating Rac1 activity at the cell periphery, which appears to be important for the formation of N-cadherin-based adhesions in motile cells. Our analyses simultaneously exemplified the essential role of Fak in the maintenance of cell-cell adhesions in collective cell migration, a type of migration occurring in embryonic development and carcinoma invasion. Introduction. Cells possess a broad spectrum of migration mechanisms. Integrin-mediated cell substratum adhesion and migration often occur together with cadherin-based cell-cell adhesion, and a number of papers have documented a variety of events where the coordinated regulation of these two different modes of adhesion occur'
+trips_processor = trips.process_text(sentence)
 
-# statements = trips_processor.statements
+statements = trips_processor.statements
 
-# pa = PysbAssembler()
-# pa.add_statements(statements)
-# model =pa.make_model(policies='two_step')
+pa = PysbAssembler()
+pa.add_statements(statements)
+model =pa.make_model(policies='two_step')
 
 # time = linspace(0,300)
 # sim_result = odesolve(model, time)

@@ -1,0 +1,104 @@
+{
+   "PMC6681686": [
+      "amd3100,pi3k,cxcr4,ly294002"
+   ],
+   "PMC3655991": [
+      "xbp1(s),mlst8,mtorc1,atf6,ire1"
+   ],
+   "PMC5541090": [
+      "hipk2,smad3,tgfbr2,smad2,tgfbr1,smad4,prdm16"
+   ],
+   "PMC5238375": [
+      "lxr-a,mapk2,ace2,atir/p38"
+   ],
+   "PMC6241696": [
+      "casp3,gsk3b,nfkb1"
+   ],
+   "PMC3932947": [
+      "mtorc1,pi3k,en2,igf1r,pdk1,s6k,igf1"
+   ],
+   "PMC5482458": [
+      "ets1,erk1"
+   ],
+   "PMC5967041": [
+      "uo126,cdcp1"
+   ],
+   "PMC6675870": [
+      "erk1,mcl-1,bcl-2,mek1"
+   ],
+   "PMC6322368": [
+      "orai1,stim1,nf-kb"
+   ],
+   "PMC3978517": [
+      "2009/1/1,h2ax,(chk1, chk2),topbp1,(cdc25a,b,c)"
+   ],
+   "PMC5642883": [
+      "erk1/2,lcn2,mek1/2"
+   ],
+   "PMC5908975": [
+      "p53,sox-2,p-gp,mmp2,cyclin d1"
+   ],
+   "PMC5788631": [
+      "mirna-ctgf,mst1/2,14-3-3,last1/2,tead5"
+   ],
+   "PMC3502787": [
+      "p85,erbb3,erbb1,erbb24,pi3k,akt/"
+   ],
+   "PMC3068308": [
+      "bcl2,pi3k,bcl-x"
+   ],
+   "PMC2172299": [
+      "rac1,p130cas,n-cadherin,py861"
+   ],
+   "PMC4826221": [
+      "p-cdk,chk1,ph2ax,cdk1,ucn1,cdc25c,g2"
+   ],
+   "PMC3521709": [
+      "ced-12,ced-10,ced-7,abl-1,ced-6,ced-5,dyn-1,ced-2,megf10,ced-1,dock180,abc1"
+   ],
+   "PMC3591436": [
+      "mmp-9,mg132,gm6001,ikb-a,nf-kb"
+   ],
+   "PMC6820189": [
+      ""
+   ],
+   "PMC5037850": [
+      "c-jun,caspase3,ap-1"
+   ],
+   "PMC4057701": [
+      "myd88,il-12"
+   ],
+   "PMC4061041": [
+      "igf-1,ag1024,igf-1r,egr-1"
+   ],
+   "PMC5850946": [
+      "calm1,grb2,tsc2,fgfr4,itgb5,col4a5,fgfr2,rap1a,akt1,fgfr3,lama2,cdh1,ccnd1,ppp2r3a,sgk1"
+   ],
+   "PMC5949124": [
+      "gli(gli1,2,3)"
+   ],
+   "PMC3920964": [
+      "lrp1,apoe3,apoe2,mmp-9,apoe4"
+   ],
+   "PMC6643126": [
+      "hif1a,pkm2,p70s6kb"
+   ],
+   "PMC2659383": [
+      ""
+   ],
+   "PMC4536527": [
+      "hif1 a,tlr4,il-6,il-1 b"
+   ],
+   "PMC3789177": [
+      "kri-1,dlc-1,cep-1,lin-35,ced-3,egl-1/ced-13,ced-9,ced-4"
+   ],
+   "PMC6307990": [
+      "il6,il6r,pd-l1,ido1,p-stat3"
+   ],
+   "PMC3946494": [
+      "her2,pi3k,muc4,nf-kb"
+   ],
+   "PMC6451008": [
+      "sno-pten,cys83"
+   ]
+}

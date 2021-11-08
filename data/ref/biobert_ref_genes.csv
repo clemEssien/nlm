@@ -1,531 +1,531 @@
 Gene,Reference
-frnk,fak
-rac1,rns1
-paxillin,paxillin
-fak - related nonkinase,fak - related nonkinase
-p130cas,p120cas
-cadherins,cadherins
-integrins,integrins
-n - cadherin,n - cadherin
-p130 crk - associated substrate,p130 crk - associated substrate
-integrin,integrin
-pyk2,cakb
 proline - rich tyrosine kinase 2,proline - rich tyrosine kinase 2
+frnk,fak
+fak - related nonkinase,fak - related nonkinase
+paxillin,paxillin
+n - cadherin,n - cadherin
+rac1,rns1
+pyk2,cakb
+p130cas,p120cas
 cadherin,cdh17
+integrin,integrin
 fak,fak
-platelet ‐ derived growth factor,platelet ‐ derived growth factor
-astrocyte nf1 gene,astrocyte nf1 gene
-neurofibromatosis 1,neurofibromatosis 1
-nf1,arcl
+integrins,integrins
+p130 crk - associated substrate,p130 crk - associated substrate
+cadherins,cadherins
+mutant epidermal growth factor receptor,mutant epidermal growth factor receptor
+mammalian target of rapamycin,mammalian target of rapamycin
+p21 ‐ ras,p21 ‐ ras
 mycn oncogene,mycn oncogene
+mycc,myc
+pdgf,pdgf
+sonic hedgehog,sonic hedgehog
+astrocyte nf1 gene,astrocyte nf1 gene
+gli,ppd1
+insulin ‐ like growth factor,insulin ‐ like growth factor
+n ‐ myc,n ‐ myc
+neurofibromatosis 1,neurofibromatosis 1
+brca2,tas2r62p
+ras,ras
+platelet ‐ derived growth factor,platelet ‐ derived growth factor
+phosphatidylinositol 3 ‐ kinase,phosphatidylinositol 3 ‐ kinase
+nf1,arcl
+sh2 domain,sh2 domain
 ros fusion tyrosine kinase,ros fusion tyrosine kinase
 epidermal growth factor receptor,epidermal growth factor receptor
 phospatase ‐ 2,phospatase ‐ 2
-ras,ras
-mammalian target of rapamycin,mammalian target of rapamycin
-insulin ‐ like growth factor,insulin ‐ like growth factor
-sh2 domain,sh2 domain
-mutant epidermal growth factor receptor,mutant epidermal growth factor receptor
-pdgf,pdgf
-phosphatidylinositol 3 ‐ kinase,phosphatidylinositol 3 ‐ kinase
-gli,ppd1
-mycc,myc
-sonic hedgehog,sonic hedgehog
-n ‐ myc,n ‐ myc
-brca2,tas2r62p
-p21 ‐ ras,p21 ‐ ras
-dpc4,madh4
-ink4a,hist1h4d
 p16,p16
-erbb3,ferlk
+ink4a,hist1h4d
+dpc4,madh4
+epidermal growth factor,epidermal growth factor
+erbb2,sial1
+her proteins,her proteins
+shc,shc
+neuregulin,neuregulin
+her - family tyrosine kinase,her - family tyrosine kinase
+her3,ferlk
+erbb receptors,erbb receptors
+epidermal growth factor receptor - related gene,epidermal growth factor receptor - related gene
+protein tyrosine kinase,protein tyrosine kinase
+transforming growth factor alpha,transforming growth factor alpha
+chicken epidermal growth factor ( egf ) receptor,chicken epidermal growth factor ( egf ) receptor
+her3 ) receptor,her3 ) receptor
+c - erbb - 3,c - erbb - 3
+neu oncogene,neu oncogene
+egf family,egf family
+heregulin,heregulin
+phosphatidylinositol 3 - kinase,phosphatidylinositol 3 - kinase
+egf receptor,egf receptor
 phosphatidylinositol 3 ’ - kinase,phosphatidylinositol 3 ’ - kinase
 erbb3 erbb3,erbb3 erbb3
-neu oncogene,neu oncogene
-phosphatidylinositol 3 - kinase,phosphatidylinositol 3 - kinase
-transforming growth factor alpha,transforming growth factor alpha
-tyrosine kinase receptor,tyrosine kinase receptor
-egf,egf
-erbb receptors,erbb receptors
-her - family tyrosine kinase,her - family tyrosine kinase
-erbb,errp
-epidermal growth factor,epidermal growth factor
-chicken epidermal growth factor ( egf ) receptor,chicken epidermal growth factor ( egf ) receptor
-neuregulin,neuregulin
-erbb2,sial1
-heregulin,heregulin
-shc,shc
-her3,ferlk
-c - src,c - src
-egf family,egf family
 e,e
-epidermal growth factor receptor - related gene,epidermal growth factor receptor - related gene
-c - erbb - 3 binding sites,c - erbb - 3 binding sites
-protein tyrosine kinase,protein tyrosine kinase
-c - erbb - 3,c - erbb - 3
-her proteins,her proteins
-egf receptor,egf receptor
-her3 ) receptor,her3 ) receptor
+erbb,errp
 erbb receptor,erbb receptor
-elmo,elmo
-ced - 10,ced - 10
-mig - 2,mig - 2
-actin,actin
-sli - 1 cbl,sli - 1 cbl
-ced - 5,ced - 5
-wave1,aoa2
-ced - 12,ced - 12
-zap - 70 kinase,zap - 70 kinase
-abi - 1,abi - 1
-syk family,syk family
-rho gtpases,rho gtpases
-rhog,rhog
+c - src,c - src
+erbb3,ferlk
+egf,egf
+tyrosine kinase receptor,tyrosine kinase receptor
+c - erbb - 3 binding sites,c - erbb - 3 binding sites
+srgp - 1,srgp - 1
 gex - 2,gex - 2
-dock180,ced5
-scar,psmc1
-nck,nck1
-gef,psmd7
-trio,tgat
-src,thc6
-mtm - 1,mtm - 1
-rhogap,arhgap1
+ced - 5,ced - 5
+elmo,elmo
 cbl,cbl
-rac,cakb
-1,1
-rho,rhod
+wave1,aoa2
+zap - 70 kinase,zap - 70 kinase
+sli - 1 cbl,sli - 1 cbl
+trio,tgat
 abl kinase,abl kinase
 wasp - family protein,wasp - family protein
+1,1
+mig - 2,mig - 2
+ced - 10,ced - 10
 wave,aoa2
-dynamin,dynamin
+rhog,rhog
+rho gtpases,rho gtpases
+ced - 12,ced - 12
+actin,actin
+gef,psmd7
 gex - 3 proteins,gex - 3 proteins
-srgp - 1,srgp - 1
+rho,rhod
+dock180,ced5
+nck,nck1
+dynamin,dynamin
+abi - 1,abi - 1
 cbl family proteins,cbl family proteins
+scar,psmc1
 unc - 73,unc - 73
-metalloproteinase - 9,metalloproteinase - 9
-matrix metalloproteinase - 9,matrix metalloproteinase - 9
-matrix - metalloproteinase - 9,matrix - metalloproteinase - 9
+rac,cakb
+src,thc6
+syk family,syk family
+rhogap,arhgap1
+mtm - 1,mtm - 1
+protein kinase c,protein kinase c
 nk - 1r,nk - 1r
-sp,sml1
-nf - κb,nf - κb
-hiv - 1 tat protein,hiv - 1 tat protein
+claudin - 5,claudin - 5
+metalloproteinase - 9,metalloproteinase - 9
 "claudin - 1, - 2 and - 5","claudin - 1, - 2 and - 5"
 gfap,alxdrd
-occludin,occludin
-claudin - 5,claudin - 5
-claudin - 1 and - 2,claudin - 1 and - 2
-protein kinase c,protein kinase c
 plasminogen activators,plasminogen activators
+matrix - metalloproteinase - 9,matrix - metalloproteinase - 9
+claudin - 1 and - 2,claudin - 1 and - 2
+nf - κb,nf - κb
+hiv - 1 tat protein,hiv - 1 tat protein
+matrix metalloproteinase - 9,matrix metalloproteinase - 9
+occludin,occludin
+sp,sml1
+ha - ras,ha - ras
+folliculin,folliculin
+mtor,frap
+catalase,catalase
 caspase,caspase
 ire1,ire1a
-ha - ras,ha - ras
 jnk1,mapk8
-catalase,catalase
 mapk,mapk
-tor,rorc
-mtor,frap
-folliculin,folliculin
 c - jun activation domain,c - jun activation domain
-dynein light chain 1,dynein light chain 1
-crkii,mapk14
-p53,lfs1
-bcl - 2 family member bim,bcl - 2 family member bim
-ced - 1,ced - 1
-p53 - binding protein 1,p53 - binding protein 1
-cd91,lambr
-caenorhabditis elegans p53,caenorhabditis elegans p53
+tor,rorc
+8 - kda dynein light chain,8 - kda dynein light chain
 dynein motor complex p53,dynein motor complex p53
 lc,lc
+crkii,mapk14
+gulp,gulp1
+cd91,lambr
+caenorhabditis elegans p53,caenorhabditis elegans p53
+dynein,dynein
+dynein light chain 1,dynein light chain 1
 cyclin - dependent kinase 2,cyclin - dependent kinase 2
+ced - 2,ced - 2
+low density lipoprotein receptor - related protein,low density lipoprotein receptor - related protein
+p53 - binding protein 1,p53 - binding protein 1
+ced - 1,ced - 1
 lrp,lrp
 ced - 6,ced - 6
-eph receptor,eph receptor
-low density lipoprotein receptor - related protein,low density lipoprotein receptor - related protein
+p53,lfs1
+bcl - 2 family member bim,bcl - 2 family member bim
 dynein cytoplasmic dynein,dynein cytoplasmic dynein
-dynein,dynein
-8 - kda dynein light chain,8 - kda dynein light chain
-ced - 2,ced - 2
-gulp,gulp1
-zpr1,znf259
-ninaa gene,ninaa gene
-cd147,emmprin
-cyclophilin a peptidyl - prolyl isomerase,cyclophilin a peptidyl - prolyl isomerase
-nuclear ribonucleoprotein a2,nuclear ribonucleoprotein a2
-apoptosis - inducing factor,apoptosis - inducing factor
-human cyclophilin a prolyl isomerase,human cyclophilin a prolyl isomerase
-immunophilins,immunophilins
-vid22p,vid22p
-asialoglycoprotein receptor,asialoglycoprotein receptor
-cyclophilin - gag,cyclophilin - gag
-cxcr4,lap-3
-peptidyl prolyl cis - trans isomerase,peptidyl prolyl cis - trans isomerase
-cyclophilins,cyclophilins
-cyclophilin,cyclophilin
+eph receptor,eph receptor
 prolyl isomerase,prolyl isomerase
-cyclophilin a - def,cyclophilin a - def
-collagen,collagen
-"fructose - 1, 6 - bisphosphatase","fructose - 1, 6 - bisphosphatase"
+nuclear ribonucleoprotein a2,nuclear ribonucleoprotein a2
 erk1 / 2,erk1 / 2
-transferrin,transferrin
+cxcr4,lap-3
+vid22p,vid22p
+human cyclophilin a prolyl isomerase,human cyclophilin a prolyl isomerase
+peptidyl prolyl cis - trans isomerase,peptidyl prolyl cis - trans isomerase
+cyclophilin a - def,cyclophilin a - def
+zpr1,znf259
 cyclophilin a,cyclophilin a
+cyclophilin - gag,cyclophilin - gag
+immunophilins,immunophilins
+cyclophilin a peptidyl - prolyl isomerase,cyclophilin a peptidyl - prolyl isomerase
+ninaa gene,ninaa gene
+apoptosis - inducing factor,apoptosis - inducing factor
+"fructose - 1, 6 - bisphosphatase","fructose - 1, 6 - bisphosphatase"
+asialoglycoprotein receptor,asialoglycoprotein receptor
 peptidyl - prolyl cis - trans - isomerase cyclosporin a,peptidyl - prolyl cis - trans - isomerase cyclosporin a
-engrailed homeobox genes,engrailed homeobox genes
-wnt,wnt
-engrailed 2,engrailed 2
-en - 2,en - 2
-engrailed,engrailed
-en - 2 homeobox,en - 2 homeobox
-homeo box - containing gene,homeo box - containing gene
-engrailed - 2 mutants,engrailed - 2 mutants
-en2,en2
-en -,en -
-homeobox transcription factor,homeobox transcription factor
-engrailed - 2,engrailed - 2
-homeobox transcription factor gene engrailed 2,homeobox transcription factor gene engrailed 2
-homeo box - containing genes,homeo box - containing genes
+collagen,collagen
+cyclophilins,cyclophilins
+cd147,emmprin
+cyclophilin,cyclophilin
+transferrin,transferrin
 pax genes,pax genes
-engrailed homeobox 2,engrailed homeobox 2
+engrailed - 2 mutants,engrailed - 2 mutants
+homeo box - containing gene,homeo box - containing gene
 engrailed 2 gene,engrailed 2 gene
-lipocalin - 2,lipocalin - 2
+en - 2,en - 2
+homeobox transcription factor,homeobox transcription factor
+engrailed homeobox genes,engrailed homeobox genes
+engrailed homeobox 2,engrailed homeobox 2
+homeo box - containing genes,homeo box - containing genes
+engrailed,engrailed
+en2,en2
+en - 2 homeobox,en - 2 homeobox
+en -,en -
+engrailed - 2,engrailed - 2
+wnt,wnt
+homeobox transcription factor gene engrailed 2,homeobox transcription factor gene engrailed 2
+engrailed 2,engrailed 2
+muc4,muc4
 her2,sial1
+lipocalin - 2,lipocalin - 2
 akt,cakb
 luciferase reporter,luciferase reporter
 lipocalin 2,lipocalin 2
-muc4,muc4
+cdc7,hucdc7
+rad51,hrad51
+gins complex,gins complex
+mcm double - hexamer,mcm double - hexamer
+mcm2 - 7 helicase,mcm2 - 7 helicase
+dna replicative helicases,dna replicative helicases
+dna polymerase alpha,dna polymerase alpha
+gins,gins
+mcm9,dj329l24.3
+dbf4,ask
+orc,orc
+cdc45,porc-pi-1
+geminin,geminin
+mcm8,mcm8
 mcm2 - 8,mcm2 - 8
 mcm2 - 7 complex,mcm2 - 7 complex
-mcm2 - 7 helicase,mcm2 - 7 helicase
-gins complex,gins complex
-cdc7,hucdc7
-mcm double - hexamer,mcm double - hexamer
-mcm2 - 7 double hexamers,mcm2 - 7 double hexamers
-rad51,hrad51
 cdt1,hdm2
-cdc6,cdc18l
-geminin,geminin
-rlf - b,rlf - b
-orc,orc
-dna polymerase alpha,dna polymerase alpha
-dna replicative helicases,dna replicative helicases
 mcm2 - 7,mcm2 - 7
-dbf4,ask
-mcm8,mcm8
 rpa,rpa
-mcm9,dj329l24.3
-gins,gins
-cdc45,porc-pi-1
-tgf - β,tgf - β
-ifn - γ,ifn - γ
-interleukin - 18,interleukin - 18
-trif,iiae6
+rlf - b,rlf - b
+cdc6,cdc18l
+mcm2 - 7 double hexamers,mcm2 - 7 double hexamers
 ifn - β,ifn - β
-toll - like receptors,toll - like receptors
-toll - like receptor,toll - like receptor
-interleukin 4,interleukin 4
-nk1.,nk1.
-tlr4,armd10
-il - 18,il - 18
-tlr,tlr
-nlrp3,ifrc
+myb,cmyb
 myeloid differentiation factor 88,myeloid differentiation factor 88
 myd88,myd88
-myb,cmyb
-bax,bcl2l4
-trf2,h6limo
-atm,agtr1b
-secretory clusterin,secretory clusterin
-apolipoprotein j,apolipoprotein j
-atr,sckl
-p21,tceal1
-atm protein kinase,atm protein kinase
-matrix metalloproteinase,matrix metalloproteinase
-clusterin,clusterin
-igf - 1,igf - 1
-pot1,cmm10
-cip1,neep21
-lamin b1,lamin b1
-insulin - like growth factor 1,insulin - like growth factor 1
-linchpin,linchpin
-subcytotoxic h,subcytotoxic h
+nk1.,nk1.
+tlr4,armd10
+toll - like receptors,toll - like receptors
+ifn - γ,ifn - γ
+tlr,tlr
+trif,iiae6
+interleukin 4,interleukin 4
+tgf - β,tgf - β
+interleukin - 18,interleukin - 18
+nlrp3,ifrc
+toll - like receptor,toll - like receptor
+il - 18,il - 18
 p38,hld17
+lamin b1,lamin b1
+secretory clusterin,secretory clusterin
+atm protein kinase,atm protein kinase
+apolipoprotein j,apolipoprotein j
+linchpin,linchpin
 sclu,sclu
-hif2alpha,hif2alpha
-insulin,insulin
-foxo1,foxo1a
-socs3,ssi-3
-cgi - 58,cgi - 58
-macrophage alpha1 amp - activated protein kinase,macrophage alpha1 amp - activated protein kinase
-parathyroid hormone - related protein,parathyroid hormone - related protein
+pot1,cmm10
+bax,bcl2l4
+p21,tceal1
+insulin - like growth factor 1,insulin - like growth factor 1
+atr,sckl
+matrix metalloproteinase,matrix metalloproteinase
+atm,agtr1b
+trf2,h6limo
+cip1,neep21
+subcytotoxic h,subcytotoxic h
+igf - 1,igf - 1
+clusterin,clusterin
 hif1α,hif1α
-vegf,vegf
+foxo1,foxo1a
 sirt1,sir2alpha
-hypoxia - inducible factor 1alpha,hypoxia - inducible factor 1alpha
-hif1alpha,hif1alpha
-adipokines,adipokines
-hif - 1alpha,hif - 1alpha
+hif2alpha,hif2alpha
+mhc ii,mhc ii
+cgi - 58,cgi - 58
+insulin,insulin
+parathyroid hormone - related protein,parathyroid hormone - related protein
 alpha1ampk,alpha1ampk
 il - 1beta,il - 1beta
-ikkbeta,ikkbeta
-il - 13,il - 13
+hif - 1alpha,hif - 1alpha
+socs3,ssi-3
+adipokines,adipokines
 hypoxia - inducible factor - 1alpha,hypoxia - inducible factor - 1alpha
+vegf,vegf
+hif1alpha,hif1alpha
+il - 13,il - 13
+hypoxia - inducible factor 1alpha,hypoxia - inducible factor 1alpha
+ikkbeta,ikkbeta
 glucagon - like peptide -,glucagon - like peptide -
-mhc ii,mhc ii
-interleukin - 6,interleukin - 6
-signal transducer and activator of transcription 3,signal transducer and activator of transcription 3
+macrophage alpha1 amp - activated protein kinase,macrophage alpha1 amp - activated protein kinase
 tgf - beta,tgf - beta
-signal transducer and activator of transcription ( stat ) 3,signal transducer and activator of transcription ( stat ) 3
 stathmin,stathmin
+interleukin - 6,interleukin - 6
+signal transducer and activator of transcription ( stat ) 3,signal transducer and activator of transcription ( stat ) 3
+signal transducer and activator of transcription 3,signal transducer and activator of transcription 3
 stat3,hies
+lrk - 1,lrk - 1
+lrrk2 lrrk2 kinase,lrrk2 lrrk2 kinase
+parkinson disease leucine - rich repeat kinase 2,parkinson disease leucine - rich repeat kinase 2
 parkin,pdj
-lrrk2,dkfzp434h2111
-leucine - rich repeat kinase 2,leucine - rich repeat kinase 2
-gtpase domain,gtpase domain
+parkinson ’ s,parkinson ’ s
 park8,dkfzp434h2111
+familial parkinsonism gene,familial parkinsonism gene
+pink1,pink1
+lrrk2,dkfzp434h2111
+moesin,moesin
+leucine - rich repeat kinase 2,leucine - rich repeat kinase 2
+c - abl,c - abl
 lrrk2 gtp binding,lrrk2 gtp binding
 inhibitors of leucine - rich repeat kinase - 2,inhibitors of leucine - rich repeat kinase - 2
-parkinson ’ s,parkinson ’ s
+gtpase domain,gtpase domain
 mutant leucine - rich repeat kinase 2,mutant leucine - rich repeat kinase 2
-lrk - 1,lrk - 1
-pink1,pink1
-moesin,moesin
-lrrk2 lrrk2 kinase,lrrk2 lrrk2 kinase
-familial parkinsonism gene,familial parkinsonism gene
-c - abl,c - abl
-parkinson disease leucine - rich repeat kinase 2,parkinson disease leucine - rich repeat kinase 2
-leptin,leptin
-erk,haha1
-angiotensin ii,angiotensin ii
-extracellular signal - regulated kinase 1 / 2,extracellular signal - regulated kinase 1 / 2
-ace2,ace2
+sterol regulatory element binding protein - 1c,sterol regulatory element binding protein - 1c
+angiotensin i - converting enzyme,angiotensin i - converting enzyme
+liver x receptor - alpha,liver x receptor - alpha
 p38 mapk,p38 mapk
 liver x receptor - α,liver x receptor - α
-angiotensin i - converting enzyme,angiotensin i - converting enzyme
-p38 mitogen - activated protein kinase,p38 mitogen - activated protein kinase
-lxrα,lxrα
-angiotension ii,angiotension ii
-at1r,agtr1b
-ace,flj31638
 at1,atiii-t1
-cardiac renin,cardiac renin
-angiotensin - ( 1 - 7 ),angiotensin - ( 1 - 7 )
-renin,renin
-sterol regulatory element binding protein - 1c,sterol regulatory element binding protein - 1c
-atrap angiotensin ii type - 1 receptor,atrap angiotensin ii type - 1 receptor
-mitogen - 1 activated protein kinase,mitogen - 1 activated protein kinase
-angiotensin,angiotensin
-liver x receptor - alpha,liver x receptor - alpha
+at1r,agtr1b
+p38 mitogen - activated protein kinase,p38 mitogen - activated protein kinase
+leptin,leptin
+ace,flj31638
 p38 map,p38 map
-connective tissue growth factor,connective tissue growth factor
-peptide ll - 37,peptide ll - 37
-chemokine receptor 4,chemokine receptor 4
-pge2,pge2
-ctgf,igfbp8
-transcription,transcription
-ets - 1,ets - 1
-ll - 37,ll - 37
-cathelicidin ll - 37,cathelicidin ll - 37
+angiotensin,angiotensin
+renin,renin
+angiotensin - ( 1 - 7 ),angiotensin - ( 1 - 7 )
+extracellular signal - regulated kinase 1 / 2,extracellular signal - regulated kinase 1 / 2
+atrap angiotensin ii type - 1 receptor,atrap angiotensin ii type - 1 receptor
+angiotensin ii,angiotensin ii
+lxrα,lxrα
+mitogen - 1 activated protein kinase,mitogen - 1 activated protein kinase
+angiotension ii,angiotension ii
+ace2,ace2
+cardiac renin,cardiac renin
+erk,haha1
 anti - tgf - beta,anti - tgf - beta
+ets - 1,ets - 1
+transforming growth factor beta,transforming growth factor beta
 ep3,ep3-ii
-transforming growth factor - beta,transforming growth factor - beta
 type i collagen gene,type i collagen gene
-lipo - pge1,lipo - pge1
+collagen gene,collagen gene
+cathelicidin ll - 37,cathelicidin ll - 37
+connective tissue growth factor,connective tissue growth factor
+transforming growth factor - beta,transforming growth factor - beta
+chemokine receptor 4,chemokine receptor 4
 type i and type vii collagen gene,type i and type vii collagen gene
 cathelicidin family,cathelicidin family
-collagen gene,collagen gene
 interleukin - 8,interleukin - 8
-transforming growth factor beta,transforming growth factor beta
-thymosin beta - 4,thymosin beta - 4
+ctgf,igfbp8
+peptide ll - 37,peptide ll - 37
 ets1,h3p43
+transcription,transcription
+pge2,pge2
 p38 map kinases,p38 map kinases
-crhr1 gene,crhr1 gene
-htr1b,psmd7
+thymosin beta - 4,thymosin beta - 4
+ll - 37,ll - 37
+lipo - pge1,lipo - pge1
+human serotonin transporter gene,human serotonin transporter gene
+comt,comt
 dopamine d2 receptor gene,dopamine d2 receptor gene
 5 - hydroxytryptamine 1a receptor gene,5 - hydroxytryptamine 1a receptor gene
+crhr1 gene,crhr1 gene
+htr1b,psmd7
 neural cell adhesion molecule,neural cell adhesion molecule
-comt,comt
 g - o,g - o
-human serotonin transporter gene,human serotonin transporter gene
-ikappab - zeta,ikappab - zeta
+c - myc,c - myc
 c / ebp - beta,c / ebp - beta
-nuclear factor - muc4,nuclear factor - muc4
 tumor necrosis factor - alpha,tumor necrosis factor - alpha
+c / ebp - delta e74 - like factor 3,c / ebp - delta e74 - like factor 3
+ikappab - zeta,ikappab - zeta
 lcn2 gene,lcn2 gene
-ngal,lcn2
-neutrophil gelatinase associated lipocalin,neutrophil gelatinase associated lipocalin
-neutrophil gelatinase - associated lipocalin,neutrophil gelatinase - associated lipocalin
-ochratoxin a,ochratoxin a
 tumour stroma - derived lipocalin - 2,tumour stroma - derived lipocalin - 2
 nf -,nf -
-lipocalin - 2 protein,lipocalin - 2 protein
-c - myc,c - myc
-interleukin - 17,interleukin - 17
-c / ebp - delta e74 - like factor 3,c / ebp - delta e74 - like factor 3
+ngal,lcn2
+neutrophil gelatinase - associated lipocalin,neutrophil gelatinase - associated lipocalin
+nuclear factor - muc4,nuclear factor - muc4
 acute,acute
+interleukin - 17,interleukin - 17
+neutrophil gelatinase associated lipocalin,neutrophil gelatinase associated lipocalin
 mmp - 9,mmp - 9
+lipocalin - 2 protein,lipocalin - 2 protein
+ochratoxin a,ochratoxin a
 vgll4,vgl-4
+cardiac growth large tumor suppressor homologs 1 and 2,cardiac growth large tumor suppressor homologs 1 and 2
+yap oncoprotein,yap oncoprotein
+cad - 11,cad - 11
+gata4,avsd
+collagen type ii,collagen type ii
+lats1 / 2,lats1 / 2
+hippo,hippo
+taz,lvncx
+laminin receptors,laminin receptors
+yap,hcca1
+rfn,rex2
+usp28,usp28
 taz yap,taz yap
 β - catenin,β - catenin
 yap yap,yap yap
-yap oncoprotein,yap oncoprotein
-cardiac growth large tumor suppressor homologs 1 and 2,cardiac growth large tumor suppressor homologs 1 and 2
-rfn,rex2
-taz,lvncx
-cad - 11,cad - 11
-usp28,usp28
-collagen type ii,collagen type ii
-hippo,hippo
-lats1 / 2,lats1 / 2
-yap,hcca1
-gata4,avsd
-laminin receptors,laminin receptors
+cyclin d1,cyclin d1
 pten,glm2
+copii,copii
+egfr,errp
+ccnd1,prad1
+pi3k,cst-1
 ywhaz,ywhad
 tuberin lama2,tuberin lama2
-ccnd1,prad1
-cyclin d1,cyclin d1
-pi3k,cst-1
-egfr,errp
-copii,copii
-laminin,laminin
-fibronectin iii - 1 domain,fibronectin iii - 1 domain
-extracellular signal - regulated kinase,extracellular signal - regulated kinase
-mdr1,kiaa0882
-fibronectin,fibronectin
-abcg2,ne-dlg
-ss5 receptor,ss5 receptor
-sfk,sfk
-bcrp,ne-dlg
-type iv collagen,type iv collagen
-mrp,muc2
 p27,p24g3
-estrogen - related receptor α1,estrogen - related receptor α1
-sox2,sox2
-csf - 1r,csf - 1r
-human abcb1,human abcb1
-pi3 - kinase,pi3 - kinase
-trail,tl2
-αvβ5 integrin,αvβ5 integrin
-cyclin - dependent kinase,cyclin - dependent kinase
-αv - integrin ss3,αv - integrin ss3
-ubiquitin,ubiquitin
 cyclin e,cyclin e
+estrogen - related receptor α1,estrogen - related receptor α1
+pi3 - kinase,pi3 - kinase
+sfk,sfk
+fibronectin iii - 1 domain,fibronectin iii - 1 domain
+trail,tl2
+type iv collagen,type iv collagen
+extracellular signal - regulated kinase,extracellular signal - regulated kinase
+bcrp,ne-dlg
 abcc,hdm2
-hedgehog,hedgehog
+abcg2,ne-dlg
+sox2,sox2
+ubiquitin,ubiquitin
+αv - integrin ss3,αv - integrin ss3
+mrp,muc2
+laminin,laminin
+αvβ5 integrin,αvβ5 integrin
+mdr1,kiaa0882
+human abcb1,human abcb1
+csf - 1r,csf - 1r
+fibronectin,fibronectin
+cyclin - dependent kinase,cyclin - dependent kinase
+ss5 receptor,ss5 receptor
 cdh1,fzr2
-notch1,hn1
-kip1,sip2-28
-p21waf1,p21waf1
-e - cadherin,e - cadherin
-tp53,lfs1
-sfrp genes,sfrp genes
-p27kip1,sip2-28
-jagged2,jagged2
-tissue transglutaminase - 1,tissue transglutaminase - 1
-cyclooxygenase - 2,cyclooxygenase - 2
-notch2,notch2
+hedgehog,hedgehog
 retinoblastoma,retinoblastoma
+p21waf1,p21waf1
+tissue transglutaminase - 1,tissue transglutaminase - 1
+jagged2,jagged2
 sall4,hsal4
-muc2,muc2
 notch,notch
-muc,muc
+notch2,notch2
+notch1,hn1
+e - cadherin,e - cadherin
+sfrp genes,sfrp genes
 notch3,cadasil
-cub - domain - containing protein 1,cub - domain - containing protein 1
-cdcp1,trask
-src - associated protein cub domain - containing protein - 1,src - associated protein cub domain - containing protein - 1
-hif - 2alpha,hif - 2alpha
-pkcdelta,pkcdelta
-gp140,gp140
+cyclooxygenase - 2,cyclooxygenase - 2
+tp53,lfs1
+muc,muc
+muc2,muc2
+p27kip1,sip2-28
+kip1,sip2-28
 vhl,trc8
-cub domain - containing protein 1,cub domain - containing protein 1
-cub - domain containing protein 1,cub - domain containing protein 1
-glycoprotein cdcp1,glycoprotein cdcp1
-src kinases,src kinases
-pdgfrβ,pdgfrβ
+pkcdelta,pkcdelta
 focal adhesion kinase tyrosine 861,focal adhesion kinase tyrosine 861
-pkc { delta },pkc { delta }
+cub - domain containing protein 1,cub - domain containing protein 1
 cub domain containing protein,cub domain containing protein
+cub domain - containing protein 1,cub domain - containing protein 1
+pdgfrβ,pdgfrβ
 plasmin,plasmin
+gp140,gp140
+glycoprotein cdcp1,glycoprotein cdcp1
+hif - 2alpha,hif - 2alpha
 src substrate,src substrate
+pkc { delta },pkc { delta }
+src - associated protein cub domain - containing protein - 1,src - associated protein cub domain - containing protein - 1
 p80,bun62
+src kinases,src kinases
+cdcp1,trask
 beta1 integrin,beta1 integrin
-insulin - like growth factor - i,insulin - like growth factor - i
-fsh,rnf3a
+cub - domain - containing protein 1,cub - domain - containing protein 1
+cytochrome p450 family 19 subfamily a member 1,cytochrome p450 family 19 subfamily a member 1
 follicle - stimulating hormone,follicle - stimulating hormone
-fshr fsh,fshr fsh
 vcam - 1,vcam - 1
 luteinizing hormone,luteinizing hormone
 cyp19a1,aro1
-a - kinase anchoring protein 95,a - kinase anchoring protein 95
-cytochrome p450 family 19 subfamily a member 1,cytochrome p450 family 19 subfamily a member 1
-hormone,hormone
-follicle - stimulating hormone receptors,follicle - stimulating hormone receptors
 follicular stimulating hormone,follicular stimulating hormone
+follicle - stimulating hormone receptors,follicle - stimulating hormone receptors
+a - kinase anchoring protein 95,a - kinase anchoring protein 95
+fshr fsh,fshr fsh
+fsh,rnf3a
+insulin - like growth factor - i,insulin - like growth factor - i
+hormone,hormone
 ido1,ido
-"indoleamine 2, 3 - dioxygenase 1","indoleamine 2, 3 - dioxygenase 1"
-stat,ipip27a
-jak,jak
-"indoleamine 2, 3 - dioxygenase","indoleamine 2, 3 - dioxygenase"
 pd - l1,pd - l1
+jak,jak
+stat,ipip27a
+"indoleamine 2, 3 - dioxygenase","indoleamine 2, 3 - dioxygenase"
 il - 6,il - 6
-tnf - alpha,tnf - alpha
-p120 - catenin,p120 - catenin
-c - fos,c - fos
-trp,tyrp
-nox2,gp91phox
-orai,orai
-stromal - interacting molecule 1,stromal - interacting molecule 1
-stim1,d11s4896e
-orai1,orat1
-dicer enzyme,dicer enzyme
-sphingosine -,sphingosine -
-sphingosine kinase - 1,sphingosine kinase - 1
-group v phospholipase a ( 2 ),group v phospholipase a ( 2 )
-c - src tyrosine kinase,c - src tyrosine kinase
-protein kinase c - alpha,protein kinase c - alpha
-ap1,slc39a3
+"indoleamine 2, 3 - dioxygenase 1","indoleamine 2, 3 - dioxygenase 1"
 stim,stim
-nos1,ino1
+nox2,gp91phox
+stim1,d11s4896e
+trp,tyrp
+c - fos,c - fos
+group v phospholipase a ( 2 ),group v phospholipase a ( 2 )
+stromal - interacting molecule 1,stromal - interacting molecule 1
+dicer enzyme,dicer enzyme
+orai1,orat1
+orai,orai
+sphingosine kinase - 1,sphingosine kinase - 1
+p120 - catenin,p120 - catenin
+protein kinase c - alpha,protein kinase c - alpha
+c - src tyrosine kinase,c - src tyrosine kinase
+tnf - alpha,tnf - alpha
+sphingosine -,sphingosine -
+ap1,slc39a3
 nos isoforms,nos isoforms
-nos3,enos
-nos2,ino1
 nitric oxide synthases,nitric oxide synthases
 nos family members,nos family members
-transforming growth factor - beta1,transforming growth factor - beta1
+nos1,ino1
+nos2,ino1
+nos3,enos
+pyruvate kinase isoenzyme type m2,pyruvate kinase isoenzyme type m2
 pkm2,cdk11-p110
 pyruvate kinase m2,pyruvate kinase m2
-hif - 1,hif - 1
-hif - 1α,hif - 1α
-smad,smad
-hif,hif
-rock,rock
-amp kinase,amp kinase
-pyruvate kinase isoenzyme type m2,pyruvate kinase isoenzyme type m2
 metformin,metformin
+rock,rock
 trim44,an3
-mcl1,thph12
-mcl - 1,mcl - 1
-bcl - x,bcl - x
-l,l
+transforming growth factor - beta1,transforming growth factor - beta1
+smad,smad
+amp kinase,amp kinase
+hif - 1,hif - 1
+hif,hif
+hif - 1α,hif - 1α
 bcl2 family,bcl2 family
-glycogen synthase kinase - 3β,glycogen synthase kinase - 3β
+mcl1,thph12
 elk - 1,elk - 1
-bak,bak-like
+l,l
+bcl - x,bcl - x
+glycogen synthase kinase - 3β,glycogen synthase kinase - 3β
+mcl - 1,mcl - 1
 mek,mapkk7
+bak,bak-like
 bcl - 2,bcl - 2
-rank,cd265
 osteoprotegerin,osteoprotegerin
-bmp - 2,bmp - 2
 rankl,ct134
-nadph oxidase,nadph oxidase
-vegf gene isoforms,vegf gene isoforms
-il - 17,il - 17
-opg,pdb5
 bone morphogenetic protein - 2,bone morphogenetic protein - 2
-transforming growth factor beta1,transforming growth factor beta1
-vascular endothelial growth factor,vascular endothelial growth factor
+rank,cd265
 plasminogen,plasminogen
-gli1,ppd1
-+,+
+transforming growth factor beta1,transforming growth factor beta1
+nadph oxidase,nadph oxidase
+opg,pdb5
+vegf gene isoforms,vegf gene isoforms
+vascular endothelial growth factor,vascular endothelial growth factor
+il - 17,il - 17
+bmp - 2,bmp - 2
 zic2,hpe5
++,+
 cd55,cripto-1
-he,el1
-human papillomavirus e6 protein,human papillomavirus e6 protein
 gli3,dnai1
+human papillomavirus e6 protein,human papillomavirus e6 protein
+he,el1
+gli1,ppd1

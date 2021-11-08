@@ -1,5 +1,14 @@
 
+import re
+import string
+from difflib import SequenceMatcher
+
+from tqdm import tqdm
+
 class str_list_ops:
+
+    def __init__(self) -> None:
+        pass
 
     def common_elements(list_a, list_b):
         # print(list_a)
@@ -26,14 +35,13 @@ class str_list_ops:
         result = result.split(', ') 
         return (result)
 
-    def filter_stop_words(text_list, stopwords):
+    def filter_stop_words(self, text_list, stopwords):
         filtered = [word for word in text_list if word not in stopwords]
         return filtered
 
-    def common_gene_in_text(text_list, text):
+    def common_gene_in_text(self, text_list, text):
         text_list = list(set(text_list))
         result = []
-        incr_index = 0
         found = []
         for word in text_list: 
             if word in text:
@@ -52,4 +60,8 @@ class str_list_ops:
                 result.append(text[start:end].strip())
                 
         return result
+    
+    
+
+
 

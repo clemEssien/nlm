@@ -1,9 +1,0 @@
-damage
-cell
-post
-fact
-polymerase
-via
-type
-mice
-mix

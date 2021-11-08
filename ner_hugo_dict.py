@@ -8,6 +8,7 @@ from collections import defaultdict
 
 
 eval = tool.evaluate()
+str_lib = string_lib.str_list_ops()
 FULL_TEXT = "data/full_text/" 
 HUGO_OUTPUT = "data/hugo_ner_results/"
 
@@ -24,7 +25,8 @@ stopwords = ['ourselves', 'hers', 'between', 'yourself', 'but', 'again', 'there'
 
 gene_list = eval.convert_csv_files_to_list("data/unite_gene_alias.csv")
 
-gene_list = string_lib.str_list_ops.filter_stop_words(gene_list, stopwords)
+gene_list = str_lib.filter_stop_words(gene_list, stopwords)
+
 df_genes = pd.DataFrame(gene_list, columns=['Genes'])
 
 df_genes.to_csv('data/genes_from_hugo.csv', index=False)
@@ -34,19 +36,19 @@ pmid_gene_dict = defaultdict(list)
 for file in tqdm(files):
     with open (FULL_TEXT+file, 'r') as f:
         pmid = file.split('.txt')[0]
+        print('processing pmdid: ', pmid)
         content = f.read().strip()
-        tokens = content.split()
-        filtered_tokens = string_lib.str_list_ops.filter_stop_words(tokens, stopwords)
-        common_elements = string_lib.str_list_ops.common_elements(filtered_tokens, gene_list)
-        pmid_gene_dict[pmid].extend(common_elements)
+        tokens = content.split(' ')
+        filtered_tokens = str_lib.filter_stop_words(tokens, stopwords)
+        matched_genes = str_lib.fuzzy_gene_match(gene_list, filtered_tokens, 0.6)
+        pmid_gene_dict[pmid].extend(matched_genes)
     
 
 
 #writing out the gene_entities to files
-print(pmid_gene_dict)
 for key, value in pmid_gene_dict.items():
     
-    with open(HUGO_OUTPUT+key+'.txt', 'a') as f:
+    with open(HUGO_OUTPUT+'gene_'+key+'.txt', 'a') as f:
         content = '\n'.join(value)
         content = content.lower()
         f.write(content)

@@ -1,7 +1,11 @@
+from difflib import SequenceMatcher
 import os
 import csv
+import re
+import string
 import pandas as pd
 import glob
+import json
 from collections import defaultdict
 from mylib import string_lib as str_lib
 
@@ -110,18 +114,104 @@ class evaluate:
         return gene_list 
 
 
+    def fuzzy_rule(self, name):
+        name = name.upper()
+        name = name.replace(' ', '')  # remove space
+        name = name.replace('.', '')  # remove dot *
+        name = re.sub(u"\\(.*?\\)", "", name)  # remove brackets and its content
+        name = name.replace('(', "").replace(')', "")  # remove single brackets
+        name = name.rstrip(string.digits)  # *
+
+        if name.find("-") >= 0:
+            if not name[name.find("-") + 1:len(name)].isalpha() or len(name[name.find("-") + 1:len(name)]) < len(
+                    name[0:name.find("-")]):
+                name = name[0:name.find("-")]
+            if name.find("-") < 2:
+                name = name[name.find("-") + 1:len(name)]
+        # name = name.replace("-", "")
+
+        return name
+
+    
+    def string_similarity(self, a , b):
+        return SequenceMatcher(None, a, b).ratio()
+        
+    def fuzzy_gene_match(self,gene_dict_list, tokens_from_text_list, similarity_threshold):
+        gene_list = []
+        for gene in gene_dict_list:
+            gene = self.fuzzy_rule(gene)
+            for token in tokens_from_text_list:
+                if self.string_similarity(token, gene) >= similarity_threshold:
+                # if token == gene or token in gene or self.string_similarity(token, gene) >= similarity_threshold:
+                    gene_list.append(token)
+        return gene_list
+        
     # writing out the matching genes with scores to csv
     def write_output_to_csv(self,file, genes_per_pmcid, genes_per_pred):    
         with open(file, newline='', mode='w') as mf:
             csv_writer = csv.writer(mf, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
             csv_writer.writerow(["S/N","PMCID", "GENES", "MATCH COUNT", "SCORE"])
             count = 0
-            genes_per_pred = self.normalize_gene_names(genes_per_pred)
+            # genes_per_pred = self.normalize_gene_names(genes_per_pred)
 
             for key, value in genes_per_pmcid.items():
                 count += 1
-                matches = str_lib.str_list_ops.common_elements(genes_per_pred[key][0], value)
+                # matches = str_lib.str_list_ops.common_elements(genes_per_pred[key][0], value)
+                matches = list(set(self.fuzzy_gene_match(genes_per_pred[key], value, 0.1)))
                 total_matches = len(matches)
-                score = round(str_lib.str_list_ops.match_ratio(genes_per_pred[key][0], value), 4)
+                score = round(str_lib.str_list_ops.match_ratio(value, matches), 4)
                 matches = ",".join(matches)
                 csv_writer.writerow([count, key, matches, total_matches, score])
+
+    
+    def calculate_match_score(self, genes_per_pred, output_file):
+        genes = []
+        for gene in list(genes_per_pred):
+            gene = [g.strip() for g in gene]
+            genes.extend(gene)
+
+        genes_dict = (self.human_gene_reference(genes))
+        self.resolve_ref_file(genes_dict, output_file)
+
+    
+    def write_combined_predicted_outputs(self, file, genes_per_pmcid, biobert, neji, bern, hugo):
+        json_dict = defaultdict(list)
+        with open(file, newline='', mode='w') as mf:
+            csv_writer = csv.writer(mf, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+            csv_writer.writerow(["S/N","PMCID", "GENES", "MATCH COUNT", "SCORE"])
+            count = 0
+            # genes_per_pred = self.normalize_gene_names(genes_per_pred)
+
+            for key, value in genes_per_pmcid.items():
+                count += 1
+                # matches = str_lib.str_list_ops.common_elements(genes_per_pred[key][0], value)
+                match_bert = list(set(self.fuzzy_gene_match(biobert[key], value, 0.1)))
+                match_neji = list(set(self.fuzzy_gene_match(neji[key], value, 0.1)))
+                match_bern = list(set(self.fuzzy_gene_match(bern[key], value, 0.1)))
+                match_hugo = list(set(self.fuzzy_gene_match(hugo[key], value, 0.1)))
+                matches = list(set(match_bert + match_neji + match_bern + match_hugo)) 
+                matches = [match for match in matches if len(match.strip()) > 0]
+                total_matches = len(matches)
+                score = round(str_lib.str_list_ops.match_ratio(value, matches), 4)
+                matches = ",".join(matches)
+                json_dict[key].append(matches)
+                csv_writer.writerow([count, key, matches, total_matches, score])
+            # json_data = json.dumps(json_dict, indent=2)
+            with open("data/output.json", "w") as f:
+                json.dump(json_dict, f, indent=3)
+
+
+    # def compare_pred_with_pathway(self, pred_dict, pathway):
+    #     match_dict = defaultdict(list)
+    #     for key, value in pathway.items():
+    #         matches = str_lib.str_list_ops.fuzzy_gene_match(pred_dict[key], value, 0.5)
+    #         match_dict[key].append(matches)
+    #     return match_dict
+        
+    #     with open('data/scores/match_hugo_ner.csv', newline='', mode='w',encoding="UTF8") as csv_file:
+    #         csv_columns = (["S/N","PMCID", "GENES", "MATCH COUNT", "SCORE"])
+    #         csv_writer = csv.writer(csv_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+    #         csv_writer.writerow(csv_columns)
+    #         for key, value in match_dict.items():
+    #             csv_writer.writerow([key,value])
+

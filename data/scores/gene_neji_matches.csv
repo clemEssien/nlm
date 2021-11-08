@@ -1,36 +1,36 @@
 S/N,PMCID,GENES,MATCH COUNT,SCORE
-1,PMC6681686,"pdb5,lap-3,cst-1,cakb",4,0.1594
-2,PMC3655991,"atf6a,kiaa1303,mapk8,sqt2,xbp1(s),rnase domain,lst8,ire1a",8,0.1757
-3,PMC5541090,"pro0593,kmt8f",2,0.1507
-4,PMC5238375,"ace2,haha1,beta-mpp,cfd,flj31638",5,0.1209
-5,PMC6241696,"cpp32,fshr1",2,0.087
-6,PMC3932947,"jtk13,en2,cakb,pdk1,igf1a,cst-1",6,0.084
-7,PMC5482458,"hs44kdap,h3p43",2,0.0408
-8,PMC5967041,"haha1,trask",2,0.0795
-9,PMC6675870,"hs44kdap,bak-like,thph12,bcl-2",4,0.1139
-10,PMC6322368,"d11s4896e,orat1",2,0.1538
-11,PMC3978517,"mgc21482,topbp1,rpa,sckl",4,0.1053
-12,PMC5642883,"erk1/2,mek1/2,lcn2",3,0.1698
-13,PMC5908975,"lfs1,cakb,sox-2,fak,paxillin,kiaa0882,cyclin d1",7,0.1875
-14,PMC5788631,"ctgf protein,igfbp8,hcca1",3,0.1449
-15,PMC3502787,"cst-1,ferlk,auts9,cakb",4,0.1584
-16,PMC3068308,"cst-1,bak-like,cakb,bcl-2",4,0.0758
-17,PMC2172299,"rns1,fak,p120cas,mapk14,paxillin,n-cadherin",6,0.2826
-18,PMC4826221,"ptg,h-grf55,agtr1b,chk1",4,0.2069
-19,PMC3521709,"hscp30,cakb,ced-7,ced-1,mapk14,gulp1,ced-2,ced-10,abl-1",9,0.2289
-20,PMC3591436,gelb,1,0.2167
-21,PMC6820189,"ppd1,hspc022",2,0.2083
-22,PMC5037850,"mapk8,slc39a3",2,0.0891
-23,PMC4057701,"iiae6,myd88",2,0.1449
-24,PMC4061041,"egr-1,igf-1,agtr1b",3,0.1803
-25,PMC5850946,"grb3-3,tkf,cakb,krev-1,kdr,tsc4,glm2,prad1,lamm",9,0.2597
-26,PMC5949124,hspc022,1,0.0446
-27,PMC3920964,"cyph,lambr,gelb",3,0.0897
-28,PMC6643126,,0,0.1613
-29,PMC2659383,"hist1h4d,hspc022,smmci",3,0.1205
-30,PMC4536527,"osteoarthritis,obese,lp-a3,dcua",4,0.25
-31,PMC3789177,dncl1,1,0.3158
-32,PMC6307990,"b7h1,ido,dcua,p-stat3",4,0.1754
-33,PMC3946494,"sial1,cakb",2,2.4
-34,PMC6451008,"frap,ino1,glm2,cakb",4,0.9
-,,,122,8.2821
+1,PMC6681686,"amd3100,pi3k,cxcr4,ly294002",4,0.3636
+2,PMC3655991,"mtorc1,xbp1(s),ire1",3,0.2308
+3,PMC5541090,"hipk2,smad3,tgfbr2,smad2,tgfbr1,prdm16",6,0.5455
+4,PMC5238375,"lxr-a,mapk2,ace2,atir/p38",4,0.2857
+5,PMC6241696,"casp3,gsk3b,nfkb1",3,0.4286
+6,PMC3932947,"mtorc1,pi3k,en2,igf1r,pdk1,s6k,igf1",7,0.6364
+7,PMC5482458,"ets1,erk1",2,1
+8,PMC5967041,"uo126,cdcp1",2,0.2857
+9,PMC6675870,"erk1,mcl-1,bcl-2,mek1",4,0.4444
+10,PMC6322368,"orai1,stim1,nf-kb",3,0.375
+11,PMC3978517,"2009/1/1,h2ax,(chk1, chk2),topbp1,(cdc25a,b,c)",5,0.2941
+12,PMC5642883,"erk1/2,lcn2,mek1/2",3,0.3
+13,PMC5908975,"p53,sox-2,mmp2,p-gp",4,0.2222
+14,PMC5788631,"mirna-ctgf,mst1/2,14-3-3,last1/2,tead5",5,0.3571
+15,PMC3502787,"pi3k,erbb3,p85,erbb24",4,0.1333
+16,PMC3068308,"bcl2,pi3k",2,0.1818
+17,PMC2172299,"rac1,p130cas,py861",3,0.2308
+18,PMC4826221,"cdc25c,p-cdk,ph2ax,g2",4,0.3077
+19,PMC3521709,"ced-7,ced-12,abl-1,ced-10,ced-6,ced-5,dyn-1,ced-2,megf10,ced-1,dock180",11,0.5789
+20,PMC3591436,"mmp-9,ikb-a,nf-kb",3,0.1667
+21,PMC6820189,,0,0
+22,PMC5037850,"c-jun,caspase3,ap-1",3,0.3333
+23,PMC4057701,myd88,1,0.1
+24,PMC4061041,"igf-1,ag1024,igf-1r,egr-1",4,0.3636
+25,PMC5850946,"calm1,grb2,tsc2,fgfr4,itgb5,col4a5,fgfr2,rap1a,akt1,fgfr3,lama2,cdh1,ccnd1,ppp2r3a,sgk1",15,0.75
+26,PMC5949124,"gli(gli1,2,3)",1,0.0833
+27,PMC3920964,"apoe3,lrp1,apoe2,mmp-9",4,0.2857
+28,PMC6643126,p70s6kb,1,0.2
+29,PMC2659383,,0,0
+30,PMC4536527,"hif1 a,tlr4,il-6,il-1 b",4,0.2353
+31,PMC3789177,"kri-1,dlc-1,cep-1,lin-35,ced-3,egl-1/ced-13,ced-9,ced-4",8,0.6667
+32,PMC6307990,"ido1,p-stat3,pd-l1",3,0.2
+33,PMC3946494,,0,0
+34,PMC6451008,,0,0
+,,,126,10.5862
