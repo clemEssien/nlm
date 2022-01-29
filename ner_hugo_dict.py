@@ -1,6 +1,9 @@
+from operator import index
 import evaluate_tool as tool
 import pandas as pd
 import os
+import re
+import time
 from tqdm import tqdm
 from mylib import string_lib
 from mylib import file_ops
@@ -23,26 +26,39 @@ stopwords = ['ourselves', 'hers', 'between', 'yourself', 'but', 'again', 'there'
 
 
 
-gene_list = eval.convert_csv_files_to_list("data/unite_gene_alias.csv")
+# gene_list = eval.convert_csv_files_to_list("data/unite_gene_alias.csv")
+# print(gene_list)
+# gene_list = str_lib.filter_stop_words(gene_list, stopwords)
 
-gene_list = str_lib.filter_stop_words(gene_list, stopwords)
+# df_genes = pd.DataFrame(gene_list, columns=['Genes'])
 
-df_genes = pd.DataFrame(gene_list, columns=['Genes'])
+# df_genes.to_csv('data/genes_from_hugo.csv', index=False)
 
-df_genes.to_csv('data/genes_from_hugo.csv', index=False)
+gene_csv = pd.read_csv("data/genes_from_hugo.csv" )
+gene_list = list(gene_csv['Genes'])
+gene_list = [gene for gene in gene_list if 'loc1' not in gene]
+
+gene_list = list(set(gene_list))
+
+start_time = time.time()
 
 files = os.listdir(FULL_TEXT)
 pmid_gene_dict = defaultdict(list)
+count = 0
 for file in tqdm(files):
     with open (FULL_TEXT+file, 'r') as f:
         pmid = file.split('.txt')[0]
-        print('processing pmdid: ', pmid)
-        content = f.read().strip()
-        tokens = content.split(' ')
+        print('processing file ', count)
+        content = f.read()
+        content = re.sub(" \d+", " ", content)
+        tokens = content.split()
+        tokens = list(set(tokens))
         filtered_tokens = str_lib.filter_stop_words(tokens, stopwords)
-        matched_genes = str_lib.fuzzy_gene_match(gene_list, filtered_tokens, 0.6)
+        filtered_tokens = [token for token in filtered_tokens if len(token) > 2]
+        matched_genes = eval.fuzzy_gene_match(gene_list, filtered_tokens, 0.4)
+        matched_genes = list(set(matched_genes))
         pmid_gene_dict[pmid].extend(matched_genes)
-    
+    count +=1
 
 
 #writing out the gene_entities to files
@@ -50,5 +66,5 @@ for key, value in pmid_gene_dict.items():
     
     with open(HUGO_OUTPUT+'gene_'+key+'.txt', 'a') as f:
         content = '\n'.join(value)
-        content = content.lower()
         f.write(content)
+print(time.time() - start_time)

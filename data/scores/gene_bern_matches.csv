@@ -1,36 +1,35 @@
 S/N,PMCID,GENES,MATCH COUNT,SCORE
-1,PMC6681686,"amd3100,pi3k,cxcr4,ly294002",4,0.3636
-2,PMC3655991,"mtorc1,xbp1(s),atf6,ire1",4,0.3077
-3,PMC5541090,"hipk2,tgfbr2,smad3,smad2,tgfbr1,prdm16",6,0.5455
+1,PMC6681686,"cxcr4,ly294002,pi3k,amd3100",4,0.3636
+2,PMC3655991,"mtorc1,ire1,xbp1(s),atf6",4,0.3077
+3,PMC5541090,"tgfbr1,hipk2,tgfbr2,smad2,prdm16,smad3",6,0.5455
 4,PMC5238375,"lxr-a,atir/p38",2,0.1429
-5,PMC6241696,"casp3,gsk3b,nfkb1",3,0.4286
-6,PMC3932947,"mtorc1,pi3k,en2,igf1r,pdk1,s6k,igf1",7,0.6364
-7,PMC5482458,"ets1,erk1",2,1
-8,PMC5967041,"uo126,cdcp1",2,0.2857
-9,PMC6675870,"erk1,mcl-1,bcl-2,mek1",4,0.4444
-10,PMC6322368,"orai1,stim1,nf-kb",3,0.375
-11,PMC3978517,"2009/1/1,h2ax,(chk1, chk2),topbp1,(cdc25a,b,c)",5,0.2941
-12,PMC5642883,"erk1/2,lcn2,mek1/2",3,0.3
-13,PMC5908975,"p53,sox-2,p-gp,mmp2,cyclin d1",5,0.2778
-14,PMC5788631,"mirna-ctgf,mst1/2,14-3-3,last1/2,tead5",5,0.3571
-15,PMC3502787,"pi3k,erbb3,erbb24",3,0.1
-16,PMC3068308,"bcl2,pi3k,bcl-x",3,0.2727
-17,PMC2172299,"rac1,p130cas,py861",3,0.2308
-18,PMC4826221,"p-cdk,chk1,ph2ax,cdk1,ucn1,cdc25c,g2",7,0.5385
-19,PMC3521709,"abl-1,ced-12,ced-10,dyn-1,ced-7,ced-5,ced-6,ced-2,megf10,ced-1,dock180,abc1",12,0.6316
-20,PMC3591436,"mmp-9,ikb-a,nf-kb",3,0.1667
-21,PMC6820189,,0,0
-22,PMC5037850,"c-jun,caspase3,ap-1",3,0.3333
+5,PMC6241696,"casp3,nfkb1,gsk3b",3,0.4286
+6,PMC3932947,"pi3k,igf1r,pdk1,mtorc1,s6k,en2,igf1",7,0.6364
+7,PMC5482458,"erk1,ets1",2,1.0
+8,PMC5967041,"cdcp1,uo126",2,0.2857
+9,PMC6675870,"mcl-1,mek1,erk1,bcl-2",4,0.4444
+10,PMC6322368,"stim1,nf-kb,orai1",3,0.375
+11,PMC3978517,"topbp1,(chk1, chk2),h2ax,(cdc25a,b,c),2009/1/1",5,0.2941
+12,PMC5642883,"mek1/2,erk1/2,lcn2",3,0.3
+13,PMC5908975,"sox-2,p-gp,mmp2,p53,cyclin d1",5,0.2778
+14,PMC5788631,"mst1/2,14-3-3,last1/2,mirna-ctgf,tead5",5,0.3571
+15,PMC3502787,"pi3k,erbb24,erbb3",3,0.1
+16,PMC3068308,"pi3k,bcl-x,bcl2",3,0.2727
+17,PMC2172299,"py861,rac1,p130cas",3,0.2308
+18,PMC4826221,"p-cdk,ph2ax,cdk1,g2,ucn1,chk1,cdc25c",7,0.5385
+19,PMC3521709,"dock180,ced-6,ced-7,ced-1,abc1,ced-12,dyn-1,megf10,ced-2,ced-5,ced-10,abl-1",12,0.6316
+20,PMC3591436,"mmp-9,nf-kb,ikb-a",3,0.1667
+21,PMC6820189,,0,0.0
+22,PMC5037850,"c-jun,ap-1,caspase3",3,0.3333
 23,PMC4057701,il-12,1,0.1
-24,PMC4061041,"igf-1,ag1024,igf-1r,egr-1",4,0.3636
-25,PMC5850946,"calm1,grb2,tsc2,itgb5,col4a5,fgfr2,rap1a,akt1,fgfr3,lama2,cdh1,ccnd1,ppp2r3a,sgk1",14,0.7
+24,PMC4061041,"egr-1,igf-1,igf-1r,ag1024",4,0.3636
+25,PMC5850946,"col4a5,cdh1,calm1,rap1a,tsc2,lama2,fgfr2,itgb5,ccnd1,fgfr3,akt1,grb2,sgk1,ppp2r3a",14,0.7
 26,PMC5949124,"gli(gli1,2,3)",1,0.0833
-27,PMC3920964,"lrp1,apoe3,apoe2,mmp-9,apoe4",5,0.3571
+27,PMC3920964,"mmp-9,apoe2,apoe3,apoe4,lrp1",5,0.3571
 28,PMC6643126,"hif1a,p70s6kb",2,0.4
-29,PMC2659383,,0,0
-30,PMC4536527,"hif1 a,tlr4,il-6,il-1 b",4,0.2353
-31,PMC3789177,,0,0
-32,PMC6307990,"ido1,pd-l1,p-stat3",3,0.2
+29,PMC2659383,,0,0.0
+30,PMC4536527,"hif1 a,il-6,tlr4,il-1 b",4,0.2353
+31,PMC3789177,,0,0.0
+32,PMC6307990,"p-stat3,pd-l1,ido1",3,0.2
 33,PMC3946494,nf-kb,1,0.0714
-34,PMC6451008,,0,0
-,,,124,10.5431
+34,PMC6451008,,0,0.0

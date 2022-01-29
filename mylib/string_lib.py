@@ -36,8 +36,19 @@ class str_list_ops:
         return (result)
 
     def filter_stop_words(self, text_list, stopwords):
-        filtered = [word for word in text_list if word not in stopwords]
+        filtered = [word for word in text_list if word.lower() not in stopwords and not re.search('^(?:(?:[0-9]{2}[:\/,]){2}[0-9]{2,4}|am|pm)$',word)]
         return filtered
+
+
+    def return_stop_words():
+        stopwords = ['ourselves', 'hers', 'between', 'yourself', 'but', 'again', 'there', 'about', 'once', 'during', 'out', 'very', 'having', 'with', 'they', 'own', 
+                    'an', 'be', 'some', 'for', 'do', 'its', 'yours', 'such', 'into', 'of', 'most', 'itself', 'other', 'off', 'is', 's', 'am', 'or', 'who', 'as', 'from', 'him', 
+                    'each', 'the', 'themselves', 'until', 'below', 'are', 'we', 'these', 'your', 'his', 'through', 'don', 'nor', 'me', 'were', 'her', 'more', 'himself', 'this', 
+                    'down', 'should', 'our', 'their', 'while', 'above', 'both', 'up', 'to', 'ours', 'had', 'she', 'all', 'no', 'when', 'at', 'any', 'before', 'them', 'same', 
+                    'and', 'been', 'have', 'in', 'will', 'on', 'does', 'yourselves', 'then', 'that', 'because', 'what', 'over', 'why', 'so', 'can', 'did', 'not', 'now', 'under', 
+                    'he', 'you', 'herself', 'has', 'just', 'where', 'too', 'only', 'myself', 'which', 'those', 'i', 'after', 'few', 'whom', 't', 'being', 'if', 'theirs', 'my', 
+                    'against', 'a', 'by', 'doing', 'it', 'how', 'further', 'was', 'here', 'than', '0','1','2','3','4','5','6','7','8','9','0', 'using']
+        return stopwords
 
     def common_gene_in_text(self, text_list, text):
         text_list = list(set(text_list))

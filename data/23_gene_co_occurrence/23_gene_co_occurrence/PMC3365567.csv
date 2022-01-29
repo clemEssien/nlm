@@ -1,0 +1,9 @@
+gene_name_1,gene_name_2,co_occurrence
+strategies,future,1
+strategies,inhibition,1
+strategies,agents,1
+strategies,current,1
+future,inhibition,1
+future,agents,2
+future,current,1
+agents,current,1

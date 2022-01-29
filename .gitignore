@@ -13,3 +13,4 @@ node_modules
 /reach_output.json
 /delete.py
 /data/scores_old
+/__pycache__/

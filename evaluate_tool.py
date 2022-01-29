@@ -8,12 +8,14 @@ import glob
 import json
 from collections import defaultdict
 from mylib import string_lib as str_lib
+from tqdm import tqdm
 
 class evaluate:
     def __init__(self) -> None:
         self.ALL_GENES_FILE = "data/manual_annotations/45_all_text.csv"
         self.ALVA_BIOBERT_PATH = "data/alvaroalon2_biobert_genetic_ner_results/"
-        self.GENE_NAMES_PUBTATOR = "data/gene_names_from_pubtator/"
+        # self.GENE_NAMES_PUBTATOR = "data/gene_names_from_pubtator/"
+        self.GENE_NAMES_PUBTATOR = "../Fei/gene_names_from_pubtator/"
         self.gene_results = [gene_file.split("_")[1].split(".")[0] for gene_file in os.listdir(self.ALVA_BIOBERT_PATH)]
 
     def retrieve_pmcids_from_path_figs(self):
@@ -138,7 +140,7 @@ class evaluate:
         
     def fuzzy_gene_match(self,gene_dict_list, tokens_from_text_list, similarity_threshold):
         gene_list = []
-        for gene in gene_dict_list:
+        for gene in tqdm(gene_dict_list):
             gene = self.fuzzy_rule(gene)
             for token in tokens_from_text_list:
                 if self.string_similarity(token, gene) >= similarity_threshold:
@@ -158,6 +160,7 @@ class evaluate:
                 count += 1
                 # matches = str_lib.str_list_ops.common_elements(genes_per_pred[key][0], value)
                 matches = list(set(self.fuzzy_gene_match(genes_per_pred[key], value, 0.1)))
+                matches = [match for match in matches if len(match.strip()) > 0]
                 total_matches = len(matches)
                 score = round(str_lib.str_list_ops.match_ratio(value, matches), 4)
                 matches = ",".join(matches)
@@ -172,7 +175,6 @@ class evaluate:
 
         genes_dict = (self.human_gene_reference(genes))
         self.resolve_ref_file(genes_dict, output_file)
-
     
     def write_combined_predicted_outputs(self, file, genes_per_pmcid, biobert, neji, bern, hugo):
         json_dict = defaultdict(list)
@@ -201,6 +203,17 @@ class evaluate:
                 json.dump(json_dict, f, indent=3)
 
 
+    def write_pred_results_to_json(self, gene_dict):
+        json_dict = defaultdict(list)
+        stopwords = str_lib.str_list_ops.return_stop_words()
+        for key, value in gene_dict.items():
+            formatted_values = [val for val in value if val  not in stopwords]
+            formatted_values = [val for val in formatted_values if not val.isdigit() ]
+            formatted_values = [val for val in formatted_values if len(val)>2 ]
+            json_dict[key].extend(formatted_values)
+        with open("data/hugo_output.json", "w") as f:
+                json.dump(json_dict, f, indent=3)
+
     # def compare_pred_with_pathway(self, pred_dict, pathway):
     #     match_dict = defaultdict(list)
     #     for key, value in pathway.items():
@@ -214,4 +227,3 @@ class evaluate:
     #         csv_writer.writerow(csv_columns)
     #         for key, value in match_dict.items():
     #             csv_writer.writerow([key,value])
-

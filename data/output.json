@@ -1,102 +1,102 @@
 {
    "PMC6681686": [
-      "amd3100,pi3k,cxcr4,ly294002"
+      "cxcr4,ly294002,pi3k,amd3100"
    ],
    "PMC3655991": [
-      "xbp1(s),mlst8,mtorc1,atf6,ire1"
+      "mlst8,atf6,mtorc1,xbp1(s),ire1"
    ],
    "PMC5541090": [
-      "hipk2,smad3,tgfbr2,smad2,tgfbr1,smad4,prdm16"
+      "smad4,tgfbr1,hipk2,tgfbr2,smad2,prdm16,smad3"
    ],
    "PMC5238375": [
-      "lxr-a,mapk2,ace2,atir/p38"
+      "atir/p38,ace2,mapk2,lxr-a"
    ],
    "PMC6241696": [
-      "casp3,gsk3b,nfkb1"
+      "casp3,nfkb1,gsk3b"
    ],
    "PMC3932947": [
-      "mtorc1,pi3k,en2,igf1r,pdk1,s6k,igf1"
+      "pi3k,igf1r,pdk1,mtorc1,s6k,en2,igf1"
    ],
    "PMC5482458": [
-      "ets1,erk1"
+      "erk1,ets1"
    ],
    "PMC5967041": [
-      "uo126,cdcp1"
+      "cdcp1,uo126"
    ],
    "PMC6675870": [
-      "erk1,mcl-1,bcl-2,mek1"
+      "mcl-1,mek1,erk1,bcl-2"
    ],
    "PMC6322368": [
-      "orai1,stim1,nf-kb"
+      "stim1,nf-kb,orai1"
    ],
    "PMC3978517": [
-      "2009/1/1,h2ax,(chk1, chk2),topbp1,(cdc25a,b,c)"
+      "topbp1,h2ax,(chk1, chk2),(cdc25a,b,c),2009/1/1"
    ],
    "PMC5642883": [
-      "erk1/2,lcn2,mek1/2"
+      "mek1/2,erk1/2,lcn2"
    ],
    "PMC5908975": [
-      "p53,sox-2,p-gp,mmp2,cyclin d1"
+      "sox-2,p-gp,mmp2,p53,cyclin d1"
    ],
    "PMC5788631": [
-      "mirna-ctgf,mst1/2,14-3-3,last1/2,tead5"
+      "mst1/2,14-3-3,last1/2,mirna-ctgf,tead5"
    ],
    "PMC3502787": [
-      "p85,erbb3,erbb1,erbb24,pi3k,akt/"
+      "pi3k,erbb3,erbb1,akt/,erbb24,p85"
    ],
    "PMC3068308": [
-      "bcl2,pi3k,bcl-x"
+      "pi3k,bcl-x,bcl2"
    ],
    "PMC2172299": [
-      "rac1,p130cas,n-cadherin,py861"
+      "n-cadherin,py861,rac1,p130cas"
    ],
    "PMC4826221": [
-      "p-cdk,chk1,ph2ax,cdk1,ucn1,cdc25c,g2"
+      "p-cdk,ph2ax,cdk1,g2,ucn1,chk1,cdc25c"
    ],
    "PMC3521709": [
-      "ced-12,ced-10,ced-7,abl-1,ced-6,ced-5,dyn-1,ced-2,megf10,ced-1,dock180,abc1"
+      "dock180,ced-10,ced-7,ced-1,abc1,ced-12,dyn-1,megf10,ced-2,ced-5,ced-6,abl-1"
    ],
    "PMC3591436": [
-      "mmp-9,mg132,gm6001,ikb-a,nf-kb"
+      "mmp-9,ikb-a,mg132,nf-kb,gm6001"
    ],
    "PMC6820189": [
       ""
    ],
    "PMC5037850": [
-      "c-jun,caspase3,ap-1"
+      "c-jun,ap-1,caspase3"
    ],
    "PMC4057701": [
-      "myd88,il-12"
+      "il-12,myd88"
    ],
    "PMC4061041": [
-      "igf-1,ag1024,igf-1r,egr-1"
+      "egr-1,igf-1,igf-1r,ag1024"
    ],
    "PMC5850946": [
-      "calm1,grb2,tsc2,fgfr4,itgb5,col4a5,fgfr2,rap1a,akt1,fgfr3,lama2,cdh1,ccnd1,ppp2r3a,sgk1"
+      "col4a5,cdh1,fgfr4,calm1,rap1a,fgfr2,itgb5,sgk1,tsc2,fgfr3,akt1,grb2,ccnd1,lama2,ppp2r3a"
    ],
    "PMC5949124": [
       "gli(gli1,2,3)"
    ],
    "PMC3920964": [
-      "lrp1,apoe3,apoe2,mmp-9,apoe4"
+      "mmp-9,apoe2,apoe3,apoe4,lrp1"
    ],
    "PMC6643126": [
-      "hif1a,pkm2,p70s6kb"
+      "pkm2,hif1a,p70s6kb"
    ],
    "PMC2659383": [
       ""
    ],
    "PMC4536527": [
-      "hif1 a,tlr4,il-6,il-1 b"
+      "hif1 a,il-6,tlr4,il-1 b"
    ],
    "PMC3789177": [
-      "kri-1,dlc-1,cep-1,lin-35,ced-3,egl-1/ced-13,ced-9,ced-4"
+      "ced-9,egl-1/ced-13,cep-1,dlc-1,lin-35,ced-3,kri-1,ced-4"
    ],
    "PMC6307990": [
-      "il6,il6r,pd-l1,ido1,p-stat3"
+      "p-stat3,ido1,pd-l1,il6,il6r"
    ],
    "PMC3946494": [
-      "her2,pi3k,muc4,nf-kb"
+      "pi3k,her2,nf-kb,muc4"
    ],
    "PMC6451008": [
       "sno-pten,cys83"

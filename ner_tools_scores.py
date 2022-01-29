@@ -14,6 +14,7 @@ bern_genes_per_pred = eval.retrieve_ner_results("data/bern_output_results/")
 
 hugo_genes_per_pred = eval.retrieve_ner_results("data/hugo_ner_results/")
 
+eval.write_pred_results_to_json(hugo_genes_per_pred)
 
 eval.write_output_to_csv("data/scores/gene_biobert.csv", genes_per_pmcid, biobert_genes_per_pred)
 eval.write_output_to_csv("data/scores/gene_neji_matches.csv", genes_per_pmcid, neji_genes_per_pred)
